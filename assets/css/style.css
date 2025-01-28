@@ -1,4 +1,4 @@
-﻿/* 全体リセット */
+﻿/* ベースリセット */
 * {
   box-sizing: border-box;
   margin: 0;
@@ -6,100 +6,78 @@
 }
 
 body {
-  font-family: sans-serif, "Hiragino Kaku Gothic ProN", Meiryo, "Helvetica Neue", Arial;
+  font-family: system-ui, sans-serif;
   line-height: 1.5;
   background: #f9f9f9;
   color: #333;
   margin: 0;
   padding: 0;
+  /* PCでも読みやすいように基本フォントサイズを大きめに(20px) */
+  font-size: 20px;
 }
 
-/* ヘッダー・フッター */
 header, footer {
   background: #333;
   color: #fff;
-  padding: 12px;
+  padding: 20px;
   text-align: center;
-}
-
-header.quiz-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
 }
 
 h1 {
   margin: 0;
-  font-size: 1.5rem;
+  font-size: 1.4em; /* 親の20pxを基準に拡大 */
 }
 
 .container {
   max-width: 600px;
-  margin: 16px auto;
-  padding: 0 16px;
+  margin: 20px auto;
+  padding: 0 20px;
 }
 
-.settings {
+/* ボックスの基本デザイン */
+.settings, .question-container, .result-container {
   background: #fff;
-  padding: 16px;
-  border-radius: 4px;
-  margin-top: 16px;
+  padding: 20px;
+  border-radius: 6px;
+  margin-top: 20px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
 .settings h2 {
   margin-bottom: 16px;
-  font-size: 1.2rem;
+  font-size: 1.2em;
 }
 
 .form-group {
   margin-bottom: 16px;
 }
 
-select, input[type="checkbox"] {
-  margin-left: 8px;
-}
-
 .btn {
   display: inline-block;
   background: #007BFF;
   color: #fff;
-  padding: 12px 16px;
+  padding: 14px 24px;
   border-radius: 4px;
   text-decoration: none;
   border: none;
   cursor: pointer;
-  font-size: 1rem;
-  margin: 8px 0;
+  font-size: 1em; /* 1em => 20px */
 }
 
 .btn:hover {
   background: #0056b3;
 }
 
-.small-btn {
-  padding: 6px 10px;
-  font-size: 0.9rem;
-  margin: 0;
-}
-
-/* クイズ関連 */
+/* 進捗やタイマーの表示 */
 .progress, .timer {
-  font-size: 1.2rem;
-  margin-bottom: 12px;
-}
-
-.question-container {
-  background: #fff;
-  padding: 16px;
-  border-radius: 4px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  font-size: 1.1em; 
+  margin-bottom: 16px;
 }
 
 .question-text {
   font-weight: bold;
   margin-bottom: 16px;
-  font-size: 1.1rem;
+  font-size: 1.1em; 
 }
 
 .choices {
@@ -109,7 +87,7 @@ select, input[type="checkbox"] {
 }
 
 .choices li {
-  margin-bottom: 8px;
+  margin-bottom: 12px;
 }
 
 .choice-btn {
@@ -120,7 +98,7 @@ select, input[type="checkbox"] {
   padding: 12px;
   border-radius: 4px;
   cursor: pointer;
-  font-size: 1rem;
+  font-size: 1em; 
 }
 
 .choice-btn:hover {
@@ -128,50 +106,64 @@ select, input[type="checkbox"] {
 }
 
 .feedback-area {
-  margin-top: 16px;
-  min-height: 40px; /* 解説などを表示するスペース確保 */
+  margin-top: 20px;
+  min-height: 40px;
+  line-height: 1.4;
   text-align: center;
   font-weight: bold;
+  font-size: 1.1em;
 }
 
 .explanation-container {
-  background: #fafafa;
-  border-left: 4px solid #007BFF;
-  padding: 12px;
-  margin-top: 16px;
-  border-radius: 4px;
-}
-
-/* 結果画面 */
-.result-container {
-  background: #fff;
+  margin-top: 20px;
+  background: #f1f1f1;
   padding: 16px;
-  margin-top: 16px;
   border-radius: 4px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
-/* レスポンシブ (スマホ向け) */
+/* 途中でトップに戻るボタン */
+.back-to-top {
+  margin-top: 8px;
+}
+
+/* ランキングなど */
+.result-container h2 {
+  margin-top: 16px;
+}
+
+/* スマホ(縦持ち) でのレイアウト調整: 幅480px以下 */
 @media (max-width: 480px) {
+  /* フォントをさらに大きく(24px) */
   body {
-    font-size: 16px; /* 少し大きめに */
+    font-size: 24px;
   }
-  .container {
-    margin: 8px;
-    padding: 8px;
-  }
-  .settings, .question-container, .result-container {
-    padding: 12px;
-  }
+
   h1 {
-    font-size: 1.2rem;
+    font-size: 1.3em; /* 24px基準で約31px */
   }
+
   .btn {
-    font-size: 0.9rem;
-    padding: 10px 14px;
+    font-size: 1em; /* 相対的に24px */
+    padding: 14px 20px; 
   }
+
+  .question-text, .feedback-area, .progress, .timer {
+    font-size: 1.0em; /* 相対的に24px */
+  }
+
   .choice-btn {
-    font-size: 0.9rem;
-    padding: 10px;
+    font-size: 1.0em;
+    padding: 14px;
+  }
+
+  /* Container 周りの余白を少し狭く */
+  .container {
+    margin: 16px auto;
+    padding: 0 16px;
+  }
+
+  .settings, .question-container, .result-container {
+    padding: 16px;
+    margin-top: 16px;
   }
 }
