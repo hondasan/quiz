@@ -1,9 +1,14 @@
 ﻿document.addEventListener('DOMContentLoaded', () => {
   const startBtn = document.getElementById('start-quiz');
   startBtn.addEventListener('click', () => {
-    const genre = document.getElementById('genre-select').value;
+    let genre = document.getElementById('genre-select').value;
     const count = document.getElementById('question-count').value;
     const isTimeAttack = document.getElementById('time-attack').checked;
+
+    // ジャンル未選択（value=""）の場合は "all" とみなす
+    if (!genre) {
+      genre = 'all';
+    }
 
     // クエリパラメータで引き継ぐ
     // 例: quiz.html?genre=math&count=5&time=1

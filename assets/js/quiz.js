@@ -1,5 +1,5 @@
 ﻿/**
- * クエリパラメータを取得するためのユーティリティ関数
+ * クエリパラメータを取得するユーティリティ関数
  */
 function getQueryParams() {
   const params = {};
@@ -32,13 +32,33 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   // JSONファイルから問題データを取得
   let allQuestions = [];
-  try {
-    const response = await fetch(`data/${genre}.json`);
-    allQuestions = await response.json();
-  } catch (error) {
-    console.error('問題データの読み込みに失敗しました:', error);
-    alert('問題データの読み込みに失敗しました。');
-    return;
+  if (genre === 'all') {
+    // 全ジャンルからまとめて取得
+    // data/general.json, data/math.json, data/science.json をまとめる例
+    const urls = ['data/general.json', 'data/math.json', 'data/science.json'];
+    for (const url of urls) {
+      try {
+        const response = await fetch(url);
+        const questions = await response.json();
+        allQuestions = allQuestions.concat(questions);
+      } catch (error) {
+        console.error(`${url}の読み込みに失敗:`, error);
+      }
+    }
+    if (allQuestions.length === 0) {
+      alert('問題データの読み込みに失敗しました。');
+      return;
+    }
+  } else {
+    // 指定ジャンルのみ
+    try {
+      const response = await fetch(`data/${genre}.json`);
+      allQuestions = await response.json();
+    } catch (error) {
+      console.error('問題データの読み込みに失敗しました:', error);
+      alert('問題データの読み込みに失敗しました。');
+      return;
+    }
   }
 
   // ランダムにシャッフルして指定数だけ抽出
@@ -62,6 +82,14 @@ document.addEventListener('DOMContentLoaded', async () => {
   const feedbackEl = document.getElementById('feedback');
   const explanationEl = document.getElementById('explanation-container');
   const nextBtn = document.getElementById('next-btn');
+  const backToTopBtn = document.getElementById('back-to-top');
+
+  // 「トップへ戻る」ボタン
+  backToTopBtn.addEventListener('click', () => {
+    if (confirm('クイズを中断してトップに戻りますか？')) {
+      window.location.href = 'index.html';
+    }
+  });
 
   // ボタンの押下時、次の問題へ進む
   nextBtn.addEventListener('click', () => {
@@ -116,7 +144,6 @@ document.addEventListener('DOMContentLoaded', async () => {
    * （イベントリスナーは表示後に付与する）
    */
   document.addEventListener('click', (e) => {
-    // 選択肢ボタンがクリックされたか判定
     if (!e.target.classList.contains('choice-btn')) return;
 
     // タイマー停止

@@ -6,8 +6,10 @@
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-  <header>
+  <header class="quiz-header">
     <h1>結果発表</h1>
+    <!-- 途中でやめるためのトップに戻るボタン -->
+    <button id="back-to-top" class="btn small-btn">トップへ戻る</button>
   </header>
 
   <main class="container">
@@ -15,12 +17,8 @@
       <!-- JavaScriptで結果を動的に挿入 -->
     </section>
 
-    <!-- シェアボタン -->
-    <div id="share" class="share-container">
-      <p>この結果をSNSでシェアしよう！</p>
-      <button id="share-twitter" class="btn">Twitterでシェア</button>
-      <!-- Facebookなども追加したければここにボタンを追加 -->
-    </div>
+    <!-- シェアボタンは削除（Twitterシェア削除要望） -->
+    <!-- ここに他のSNSも不要なら削除 -->
   </main>
 
   <footer class="footer">
