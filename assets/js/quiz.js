@@ -31,7 +31,6 @@ document.addEventListener('DOMContentLoaded', async () => {
   const isTimeAttack = time === '1';
 
   // JSONファイルから問題データを取得
-  // 例：data/general.json, data/math.json, data/science.json
   let allQuestions = [];
   try {
     const response = await fetch(`data/${genre}.json`);
@@ -53,7 +52,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   // タイマー関連
   let timerId = null;
-  const timeLimit = 10; // タイムアタックの1問あたり時間
+  const timeLimit = 10; // タイムアタックの1問あたりの時間
 
   // 要素の参照
   const progressEl = document.getElementById('progress');
@@ -61,6 +60,24 @@ document.addEventListener('DOMContentLoaded', async () => {
   const timeLeftEl = document.getElementById('time-left');
   const questionContainerEl = document.getElementById('question-container');
   const feedbackEl = document.getElementById('feedback');
+  const explanationEl = document.getElementById('explanation-container');
+  const nextBtn = document.getElementById('next-btn');
+
+  // ボタンの押下時、次の問題へ進む
+  nextBtn.addEventListener('click', () => {
+    nextBtn.style.display = 'none';         // 次へボタンを再度非表示
+    explanationEl.style.display = 'none';   // 解説エリアを非表示
+    feedbackEl.textContent = '';            // フィードバック消去
+
+    // 次の問題へ or 終了判定
+    currentIndex++;
+    if (currentIndex < questionCount) {
+      showQuestion(currentIndex);
+    } else {
+      // クイズ終了
+      goToResult();
+    }
+  });
 
   // 最初の問題を表示
   showQuestion(currentIndex);
@@ -85,30 +102,31 @@ document.addEventListener('DOMContentLoaded', async () => {
     `;
     questionContainerEl.innerHTML = questionHtml;
 
-    // フィードバック領域をリセット
-    feedbackEl.textContent = '';
-
-    // タイムアタックモードならタイマー開始
+    // タイマー表示のリセット
     if (isTimeAttack) {
       timerEl.style.display = 'block';
       startTimer();
     } else {
       timerEl.style.display = 'none';
     }
-
-    // 選択肢ボタンにイベントを紐付け
-    const choiceButtons = questionContainerEl.querySelectorAll('.choice-btn');
-    choiceButtons.forEach(btn => {
-      btn.addEventListener('click', (e) => {
-        // タイマー停止
-        if (isTimeAttack) {
-          clearInterval(timerId);
-        }
-        const userAnswer = parseInt(e.target.dataset.choiceIndex, 10);
-        handleAnswer(userAnswer);
-      });
-    });
   }
+
+  /**
+   * 選択肢をクリックした際の処理
+   * （イベントリスナーは表示後に付与する）
+   */
+  document.addEventListener('click', (e) => {
+    // 選択肢ボタンがクリックされたか判定
+    if (!e.target.classList.contains('choice-btn')) return;
+
+    // タイマー停止
+    if (isTimeAttack) {
+      clearInterval(timerId);
+    }
+
+    const userAnswer = parseInt(e.target.dataset.choiceIndex, 10);
+    handleAnswer(userAnswer);
+  });
 
   /**
    * 回答処理
@@ -118,7 +136,9 @@ document.addEventListener('DOMContentLoaded', async () => {
     const correctAnswer = q.answer;
 
     // 正解判定
+    let isCorrect = false;
     if (userAnswer === correctAnswer) {
+      isCorrect = true;
       correctCount++;
       // タイムボーナスの例：残り秒数 × 2点
       let remaining = 0;
@@ -127,6 +147,16 @@ document.addEventListener('DOMContentLoaded', async () => {
       }
       const timeBonus = remaining * 2;
       score += 10 + timeBonus; // 基本10点 + タイムボーナス
+    }
+
+    showExplanation(q, isCorrect);
+  }
+
+  /**
+   * 正解・不正解にかかわらず解説を表示し、「次へ」ボタンを出す
+   */
+  function showExplanation(question, isCorrect) {
+    if (isCorrect) {
       feedbackEl.style.color = 'green';
       feedbackEl.textContent = '正解！';
     } else {
@@ -134,18 +164,14 @@ document.addEventListener('DOMContentLoaded', async () => {
       feedbackEl.textContent = '不正解...';
     }
 
-    // 解説表示（数秒間表示する、またはすぐ次へ行っても良い）
-    // 今回は 1.5 秒程度待ってから次へ行く
-    setTimeout(() => {
-      // 次の問題へ or 終了判定
-      currentIndex++;
-      if (currentIndex < questionCount) {
-        showQuestion(currentIndex);
-      } else {
-        // クイズ終了
-        goToResult();
-      }
-    }, 1500);
+    // 解説を表示
+    explanationEl.innerHTML = `
+      <p><strong>解説：</strong>${question.explanation || '解説はありません。'}</p>
+    `;
+    explanationEl.style.display = 'block';
+
+    // 「次へ」ボタンを表示
+    nextBtn.style.display = 'inline-block';
   }
 
   /**
@@ -159,18 +185,14 @@ document.addEventListener('DOMContentLoaded', async () => {
       timeLeft--;
       timeLeftEl.textContent = timeLeft;
       if (timeLeft <= 0) {
-        // タイムオーバー
+        // タイムオーバー → 不正解扱い
         clearInterval(timerId);
         feedbackEl.style.color = 'red';
         feedbackEl.textContent = '時間切れ...';
-        setTimeout(() => {
-          currentIndex++;
-          if (currentIndex < questionCount) {
-            showQuestion(currentIndex);
-          } else {
-            goToResult();
-          }
-        }, 1500);
+
+        const q = selectedQuestions[currentIndex];
+        // 解説表示（不正解扱い）
+        showExplanation(q, false);
       }
     }, 1000);
   }
@@ -179,8 +201,6 @@ document.addEventListener('DOMContentLoaded', async () => {
    * 結果画面へ移動
    */
   function goToResult() {
-    // URLクエリパラメータで受け渡す場合
-    // スコア、正解数、問題数を渡す（正確にはLocalStorageの方が容量安心）
     const url = `result.html?score=${score}&correct=${correctCount}&total=${questionCount}`;
     window.location.href = url;
   }
