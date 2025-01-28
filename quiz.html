@@ -22,11 +22,14 @@
     <!-- 問題と選択肢を表示する領域 -->
     <div id="question-container" class="question-container"></div>
 
-    <!-- 正解/不正解 フィードバック表示 -->
+    <!-- 正解/不正解のフィードバック表示 -->
     <div id="feedback" class="feedback-area"></div>
 
-    <!-- 次へ進むボタン（演出用。自動的に進んでもよい） -->
-    <!-- 今回は自動で進む実装にしているので、明示的な次へボタンは用意していません。 -->
+    <!-- 解説表示エリア（最初は非表示） -->
+    <div id="explanation-container" class="explanation-container" style="display:none;"></div>
+
+    <!-- 次へボタン（最初は非表示） -->
+    <button id="next-btn" class="btn" style="display:none;">次へ</button>
   </main>
 
   <footer class="footer">
