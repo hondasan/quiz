@@ -1,0 +1,37 @@
+﻿[
+  {
+    "id": 1,
+    "question": "次の式の答えは？ 2 + 2 = ?",
+    "choices": ["1", "2", "3", "4"],
+    "answer": 3,
+    "explanation": "2+2=4です。"
+  },
+  {
+    "id": 2,
+    "question": "√16 は？",
+    "choices": ["2", "4", "8", "16"],
+    "answer": 1,
+    "explanation": "16の平方根は4です。"
+  },
+  {
+    "id": 3,
+    "question": "連立方程式 x + y = 5, x - y = 1 の解は？",
+    "choices": ["x=3, y=2", "x=2, y=3", "x=4, y=1", "x=1, y=4"],
+    "answer": 0,
+    "explanation": "x=3, y=2 で両方の式を満たします。"
+  },
+  {
+    "id": 4,
+    "question": "3の2乗は？",
+    "choices": ["3", "6", "9", "12"],
+    "answer": 2,
+    "explanation": "3の2乗は9です。"
+  },
+  {
+    "id": 5,
+    "question": "10進数で15は、16進数だと？",
+    "choices": ["F", "E", "10", "15"],
+    "answer": 0,
+    "explanation": "10進数15は16進数でFとなります。"
+  }
+]

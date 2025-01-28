@@ -1,0 +1,140 @@
+﻿/* 全体リセット的なもの */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+  line-height: 1.5;
+  background: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header, footer {
+  background: #333;
+  color: #fff;
+  padding: 16px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+}
+
+.container {
+  max-width: 600px;
+  margin: 16px auto;
+  padding: 0 16px;
+}
+
+.settings {
+  background: #fff;
+  padding: 16px;
+  border-radius: 4px;
+  margin-top: 16px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.settings h2 {
+  margin-bottom: 16px;
+}
+
+.form-group {
+  margin-bottom: 16px;
+}
+
+.btn {
+  display: inline-block;
+  background: #007BFF;
+  color: #fff;
+  padding: 8px 16px;
+  border-radius: 4px;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #0056b3;
+}
+
+.progress, .timer {
+  font-size: 1.2em;
+  margin-bottom: 12px;
+}
+
+.question-container {
+  background: #fff;
+  padding: 16px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.question-text {
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.choices {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.choices li {
+  margin-bottom: 8px;
+}
+
+.choice-btn {
+  width: 100%;
+  text-align: left;
+  background: #eee;
+  border: 1px solid #ccc;
+  padding: 8px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.choice-btn:hover {
+  background: #ddd;
+}
+
+.feedback-area {
+  margin-top: 16px;
+  height: 40px; /* 適度な高さをとり、メッセージが表示されるエリアを確保 */
+  line-height: 40px;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* 結果画面 */
+.result-container {
+  background: #fff;
+  padding: 16px;
+  margin-top: 16px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.share-container {
+  text-align: center;
+  margin-top: 16px;
+}
+
+/* レスポンシブ例 */
+@media (max-width: 480px) {
+  .container {
+    margin: 8px;
+    padding: 8px;
+  }
+  .question-container, .settings, .result-container {
+    padding: 12px;
+  }
+  .form-group {
+    margin-bottom: 12px;
+  }
+}

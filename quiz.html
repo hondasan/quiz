@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>クイズアプリ - クイズ中</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header>
+    <h1>クイズに挑戦！</h1>
+  </header>
+
+  <main class="container">
+    <!-- 進行状況表示 -->
+    <div id="progress" class="progress"></div>
+
+    <!-- タイマー -->
+    <div id="timer" class="timer" style="display: none;">
+      残り時間: <span id="time-left">10</span>秒
+    </div>
+
+    <!-- 問題と選択肢を表示する領域 -->
+    <div id="question-container" class="question-container"></div>
+
+    <!-- 正解/不正解 フィードバック表示 -->
+    <div id="feedback" class="feedback-area"></div>
+
+    <!-- 次へ進むボタン（演出用。自動的に進んでもよい） -->
+    <!-- 今回は自動で進む実装にしているので、明示的な次へボタンは用意していません。 -->
+  </main>
+
+  <footer class="footer">
+    <p>© 2025 My Quiz App</p>
+  </footer>
+
+  <script src="assets/js/quiz.js"></script>
+</body>
+</html>

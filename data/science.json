@@ -1,0 +1,42 @@
+﻿[
+  {
+    "id": 1,
+    "question": "地球は太陽系で何番目の惑星？",
+    "choices": ["1番目", "2番目", "3番目", "4番目"],
+    "answer": 2,
+    "explanation": "太陽から3番目にある惑星です。"
+  },
+  {
+    "id": 2,
+    "question": "水の化学式は？",
+    "choices": ["H₂O", "O₂", "CO₂", "NaCl"],
+    "answer": 0,
+    "explanation": "水の化学式はH₂Oです。"
+  },
+  {
+    "id": 3,
+    "question": "DNAの正式名称は？",
+    "choices": [
+      "デオキシリボ核酸",
+      "リボ核酸",
+      "アミノ酸",
+      "ニトロ化合物"
+    ],
+    "answer": 0,
+    "explanation": "Deoxyribonucleic acid（デオキシリボ核酸）が正式名称です。"
+  },
+  {
+    "id": 4,
+    "question": "音速を表す単位は？",
+    "choices": ["ノット", "bps", "マッハ", "ヘルツ"],
+    "answer": 2,
+    "explanation": "音速の倍数をマッハと呼びます。"
+  },
+  {
+    "id": 5,
+    "question": "次のうち、気体ではないものは？",
+    "choices": ["水素", "酸素", "窒素", "水蒸気"],
+    "answer": 3,
+    "explanation": "水蒸気は気体ですが、高温状態でのみ成立します。常温だと液体（液体の水）ですね。"
+  }
+]
