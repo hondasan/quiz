@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   if (genre === 'all') {
     // 全ジャンルからまとめて取得
     // data/general.json, data/math.json, data/science.json をまとめる例
-    const urls = ['data/general.json', 'data/math.json', 'data/science.json'];
+    const urls = ['data/general.json', 'data/math.json', 'data/science.json', 'data/toeic_quiz_300.json'];
     for (const url of urls) {
       try {
         const response = await fetch(url);
