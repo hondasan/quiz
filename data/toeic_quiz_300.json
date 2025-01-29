@@ -1,3602 +1,4802 @@
 [
   {
     "id": 1,
-    "question": "What is the meaning of 'implement'?",
+    "question": "What is the meaning of 'accommodate'?",
     "choices": [
-      "実行する",
-      "妨げる",
-      "解決する",
-      "予測する"
+      "広告すること、広告",
+      "再び満たす、補充する",
+      "あと知恵",
+      "?を収容する、?を宿泊させる"
     ],
-    "answer": 0,
-    "explanation": "'Implement' means '実行する'. Example: 'The company implemented a new policy.'"
+    "answer": 3,
+    "explanation": "'accommodate' means '?を収容する、?を宿泊させる'. Example: 'Learning accommodate helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 2,
-    "question": "What is the meaning of 'mandatory'?",
+    "question": "What is the meaning of 'accounting'?",
     "choices": [
-      "必要な",
-      "義務的な",
-      "魅力的な",
-      "信頼できる"
+      "会計学、 計算、経理",
+      "補足する、助成金の",
+      "外科の、整形用の",
+      "せざるをえなくて、ありがたく思って"
     ],
-    "answer": 1,
-    "explanation": "'Mandatory' means '義務的な'. Example: 'Wearing a seatbelt is mandatory in most countries.'"
+    "answer": 0,
+    "explanation": "'accounting' means '会計学、 計算、経理'. Example: 'Learning accounting helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 3,
-    "question": "What is the meaning of 'revenue'?",
+    "question": "What is the meaning of 'actually'?",
     "choices": [
-      "支出",
-      "収入",
-      "利益",
-      "借金"
+      "実際に、本当のところは",
+      "消してしまう、抹消する",
+      "開放する、免除する",
+      "会議、協議会、委員会"
     ],
-    "answer": 1,
-    "explanation": "'Revenue' means '収入'. Example: 'The company’s annual revenue increased by 20%.'"
+    "answer": 0,
+    "explanation": "'actually' means '実際に、本当のところは'. Example: 'Learning actually helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 4,
-    "question": "What is the meaning of 'negotiate'?",
+    "question": "What is the meaning of 'additional'?",
     "choices": [
-      "交渉する",
-      "拒否する",
-      "支払う",
-      "同意する"
+      "食欲をそそるもの、前菜",
+      "再び始める、回復する",
+      "付加的な，追加の",
+      "油断のない、警戒して"
     ],
-    "answer": 0,
-    "explanation": "'Negotiate' means '交渉する'. Example: 'He negotiated a better salary before signing the contract.'"
+    "answer": 2,
+    "explanation": "'additional' means '付加的な，追加の'. Example: 'Learning additional helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 5,
-    "question": "What is the meaning of 'innovative'?",
+    "question": "What is the meaning of 'administration'?",
     "choices": [
-      "従来の",
-      "画期的な",
-      "安全な",
-      "無意味な"
+      "貪欲な、熱心な、渇望して",
+      "管理、運営、経営、統治、行政",
+      "説明する、明らかにする",
+      "艦隊、船団、全車両"
     ],
     "answer": 1,
-    "explanation": "'Innovative' means '画期的な'. Example: 'The company is known for its innovative technology.'"
+    "explanation": "'administration' means '管理、運営、経営、統治、行政'. Example: 'Learning administration helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 6,
-    "question": "What is the meaning of 'allocate'?",
+    "question": "What is the meaning of 'advance'?",
     "choices": [
-      "割り当てる",
-      "集める",
-      "発表する",
-      "除外する"
+      "つける、宣言する、入札",
+      "前進、進める、前進させる、提案する、提示する",
+      "くじ引き、運",
+      "信任の厚い、内々の、打ち解けて"
     ],
-    "answer": 0,
-    "explanation": "'Allocate' means '割り当てる'. Example: 'The budget was allocated for research and development.'"
+    "answer": 1,
+    "explanation": "'advance' means '前進、進める、前進させる、提案する、提示する'. Example: 'Learning advance helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 7,
-    "question": "What is the meaning of 'agenda'?",
+    "question": "What is the meaning of 'advertising'?",
     "choices": [
-      "議題",
-      "報告書",
-      "契約",
-      "案内"
+      "一様、均一、画一、一律",
+      "広告すること、広告",
+      "運搬人、郵便配達員、新聞配達人、運送業者、運送会社",
+      "豪華な、ぜいたくな"
     ],
-    "answer": 0,
-    "explanation": "'Agenda' means '議題'. Example: 'The main agenda for today’s meeting is cost reduction.'"
+    "answer": 1,
+    "explanation": "'advertising' means '広告すること、広告'. Example: 'Learning advertising helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 8,
-    "question": "What is the meaning of 'enhance'?",
+    "question": "What is the meaning of 'afford'?",
     "choices": [
-      "悪化させる",
-      "改善する",
-      "取り除く",
-      "低下させる"
+      "首尾一貫した、矛盾のない、調和して",
+      "運送、運賃、輸送機関",
+      "透明な、わかりやすい",
+      "余裕がある、差し支えない"
     ],
-    "answer": 1,
-    "explanation": "'Enhance' means '改善する'. Example: 'The software update enhanced security features.'"
+    "answer": 3,
+    "explanation": "'afford' means '余裕がある、差し支えない'. Example: 'Learning afford helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 9,
-    "question": "What is the meaning of 'flexible'?",
+    "question": "What is the meaning of 'analyst'?",
     "choices": [
-      "柔軟な",
-      "固い",
-      "慎重な",
-      "急速な"
+      "改良する",
+      "支出、経費",
+      "分析者、アナリスト",
+      "味のよい、塩のきいた、辛みのある、おもしろみのある"
     ],
-    "answer": 0,
-    "explanation": "'Flexible' means '柔軟な'. Example: 'A flexible schedule allows employees to work remotely.'"
+    "answer": 2,
+    "explanation": "'analyst' means '分析者、アナリスト'. Example: 'Learning analyst helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 10,
-    "question": "What is the meaning of 'deadline'?",
+    "question": "What is the meaning of 'annual'?",
     "choices": [
-      "期限",
-      "目的",
-      "挑戦",
-      "会議"
+      "打ち上げ花火、急騰する",
+      "複雑な、入り組んだ",
+      "年に1度の、例年の、1年の、年々の、毎年の",
+      "借りがある、負っている"
     ],
-    "answer": 0,
-    "explanation": "'Deadline' means '期限'. Example: 'The deadline for the project is next Monday.'"
+    "answer": 2,
+    "explanation": "'annual' means '年に1度の、例年の、1年の、年々の、毎年の'. Example: 'Learning annual helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 11,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'appear'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "出現する、ように見える、見受けられる",
+      "旅行日程表、旅行計画",
+      "道具、用具、手段",
+      "処方箋、おきて、法規"
     ],
     "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "explanation": "'appear' means '出現する、ように見える、見受けられる'. Example: 'Learning appear helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 12,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'applicant'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "応募者、志願者、申込者、希望者、出願者",
+      "引用する",
+      "きちんとした、整然とした、かなりの",
+      "気まぐれな、移り気な、急変しがちな"
     ],
     "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "explanation": "'applicant' means '応募者、志願者、申込者、希望者、出願者'. Example: 'Learning applicant helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 13,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'appreciate'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "探究する、詮索する",
+      "今の、現在の、流通している",
+      "穏やかな、静かな、落ち着いた",
+      "高く評価する、鑑賞する"
     ],
-    "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "answer": 3,
+    "explanation": "'appreciate' means '高く評価する、鑑賞する'. Example: 'Learning appreciate helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 14,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'architect'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "大失敗",
+      "建築家、建築士、設計者、企画者",
+      "目の、視覚の、光学上の",
+      "燃えるような、けばけばしい"
     ],
-    "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "answer": 1,
+    "explanation": "'architect' means '建築家、建築士、設計者、企画者'. Example: 'Learning architect helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 15,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'assess'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "を評価する",
+      "発声、発生率、投射",
+      "パンフレット、小冊子",
+      "アレルギー"
     ],
     "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "explanation": "'assess' means 'を評価する'. Example: 'Learning assess helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 16,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'attend'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "代表する、描写して、代理の",
+      "きちんとした、整然とした、かなりの",
+      "出席する、参列する.",
+      "はかどらせる、促進させる"
     ],
-    "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "answer": 2,
+    "explanation": "'attend' means '出席する、参列する.'. Example: 'Learning attend helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 17,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'attract'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "引く、引き込む、引き付ける",
+      "装う、ふりをする",
+      "複雑な、入り組んだ",
+      "要約された"
     ],
     "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "explanation": "'attract' means '引く、引き込む、引き付ける'. Example: 'Learning attract helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 18,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'benefit'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "政府などの予算案、予算、 経費",
+      "適格で、望ましくて",
+      "恥じ入らす、当惑させる",
+      "利益、ためになること、幸福につながる便益"
     ],
-    "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "answer": 3,
+    "explanation": "'benefit' means '利益、ためになること、幸福につながる便益'. Example: 'Learning benefit helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 19,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'budget'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "蓄え、備品、蓄える",
+      "政府などの予算案、予算、 経費",
+      "芽、 若枝",
+      "処方箋、おきて、法規"
     ],
-    "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "answer": 1,
+    "explanation": "'budget' means '政府などの予算案、予算、 経費'. Example: 'Learning budget helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 20,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'cater'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "味つけした、調味した、経験豊かな",
+      "豊富に、たくさん",
+      "うなる、がみがみ言う、とどろく",
+      "料理を調達する、提供する、賄う"
     ],
-    "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "answer": 3,
+    "explanation": "'cater' means '料理を調達する、提供する、賄う'. Example: 'Learning cater helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 21,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'colleague'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "眠気",
+      "応じること、親切",
+      "同僚",
+      "開放する、免除する"
     ],
-    "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "answer": 2,
+    "explanation": "'colleague' means '同僚'. Example: 'Learning colleague helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 22,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'compare'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "装う、ふりをする",
+      "休止、まくあい、休憩時間",
+      "健康診断、検査",
+      "比較する、対照する"
     ],
-    "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "answer": 3,
+    "explanation": "'compare' means '比較する、対照する'. Example: 'Learning compare helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 23,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'complicated'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "回収する、取り戻す",
+      "補足、付録、追加する",
+      "経営幹部，役員，経営者、行政上の、実行する、執行する",
+      "複雑な、入り組んだ"
     ],
-    "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "answer": 3,
+    "explanation": "'complicated' means '複雑な、入り組んだ'. Example: 'Learning complicated helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 24,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'concern'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "たくさんの、豊富な、あり余るほどの",
+      "関係している、重要である、心配させる",
+      "必然的に伴う、相続人を限定して譲る",
+      "控える、我慢する、抑える"
     ],
-    "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "answer": 1,
+    "explanation": "'concern' means '関係している、重要である、心配させる'. Example: 'Learning concern helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 25,
     "question": "What is the meaning of 'conference'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "会議、協議会、委員会",
+      "控える、我慢する、抑える",
+      "要約された",
+      "失敗する、しそこなう"
     ],
     "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "explanation": "'conference' means '会議、協議会、委員会'. Example: 'Learning conference helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 26,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'consumer'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "消費者",
+      "印象的な、人目をひく、堂々とした",
+      "昇進させる、促進する、助長する",
+      "外出、出国"
     ],
     "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "explanation": "'consumer' means '消費者'. Example: 'Learning consumer helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 27,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'contract'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "不足、欠乏",
+      "契約、協定、契約書",
+      "払い戻す、返金する",
+      "起業家、事業家"
     ],
-    "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "answer": 1,
+    "explanation": "'contract' means '契約、協定、契約書'. Example: 'Learning contract helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 28,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'current'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "よく知っている、なじみの、ありふれた、どこにでもある",
+      "今の、現在の、流通している",
+      "広告すること、広告",
+      "船積み、輸送、発送"
     ],
-    "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "answer": 1,
+    "explanation": "'current' means '今の、現在の、流通している'. Example: 'Learning current helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 29,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'decide'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "決定する、決心する",
+      "根拠の確実な、有効な、正当な",
+      "解ける、打ち解ける",
+      "落葉性の、落ちる、はかない、一時的な"
     ],
     "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "explanation": "'decide' means '決定する、決心する'. Example: 'Learning decide helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 30,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'delay'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "遅らせる、延ばす",
+      "運搬人、郵便配達員、新聞配達人、運送業者、運送会社",
+      "すぐれた、著名で、上品な",
+      "惜しんで使わない、節約する、労を惜しむ"
     ],
     "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "explanation": "'delay' means '遅らせる、延ばす'. Example: 'Learning delay helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 31,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'delighted'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "厳しい、質素な",
+      "喜んで、楽しそうな",
+      "ペンネーム",
+      "下劣な、下品な、不名誉な、恥ずべき、身分の卑しい"
     ],
-    "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "answer": 1,
+    "explanation": "'delighted' means '喜んで、楽しそうな'. Example: 'Learning delighted helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 32,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'department'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "売場、省、部、局",
+      "要約された",
+      "小旅館、小ホテル、宿屋",
+      "言及する、ほのめかす"
     ],
     "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "explanation": "'department' means '売場、省、部、局'. Example: 'Learning department helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 33,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'designate'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "基本の、初歩の、原始的な、粗末な、未発達の",
+      "指名する",
+      "認める、入れる",
+      "くじ引き、運"
     ],
-    "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "answer": 1,
+    "explanation": "'designate' means '指名する'. Example: 'Learning designate helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 34,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'develop'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "発掘する、明るみに出す",
+      "予約",
+      "発達させる",
+      "バイパス、側管"
     ],
-    "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "answer": 2,
+    "explanation": "'develop' means '発達させる'. Example: 'Learning develop helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 35,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'donate'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "贈与する、寄贈する",
+      "ハンドル、取っ手、扱う、処理する",
+      "くまなく探る、あさり回る、くまなく探す、ものを奪う",
+      "告知、注意すること、注目、気がつく"
     ],
     "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "explanation": "'donate' means '贈与する、寄贈する'. Example: 'Learning donate helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 36,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'eliminate'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "経営幹部，役員，経営者、行政上の、実行する、執行する",
+      "除く、排除する、除外する",
+      "弁済する、償還する、請け出す、取り返す",
+      "乗客、旅客"
     ],
-    "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "answer": 1,
+    "explanation": "'eliminate' means '除く、排除する、除外する'. Example: 'Learning eliminate helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 37,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'encourage'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "誘惑するもの、魅惑、ルアー",
+      "元気づける、促進する",
+      "思索する、推測をする",
+      "弁済する、償還する、請け出す、取り返す"
     ],
-    "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "answer": 1,
+    "explanation": "'encourage' means '元気づける、促進する'. Example: 'Learning encourage helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 38,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'enroll'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "登録する、入学を認める",
+      "旧式の、時代遅れの",
+      "無念、悔しさ",
+      "病的な、憂うつな、陰気な、病気に起因する"
     ],
     "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "explanation": "'enroll' means '登録する、入学を認める'. Example: 'Learning enroll helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 39,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'estate'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "風変わりな、奇異な、奇妙な",
+      "料理のつけ合わせ、飾り物",
+      "財産",
+      "誘惑するもの、魅惑、ルアー"
     ],
-    "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "answer": 2,
+    "explanation": "'estate' means '財産'. Example: 'Learning estate helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 40,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'exceed'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "関税、運賃表、料金表",
+      "超過する、越える",
+      "粘板岩、石板、候補者名簿",
+      "緯度、自由範囲"
     ],
-    "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "answer": 1,
+    "explanation": "'exceed' means '超過する、越える'. Example: 'Learning exceed helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 41,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'except'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "全滅させる、完敗させる、圧倒する",
+      "玄関、廊下",
+      "信任の厚い、内々の、打ち解けて",
+      "を除いては、〜のほかは、〜以外では"
     ],
-    "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "answer": 3,
+    "explanation": "'except' means 'を除いては、〜のほかは、〜以外では'. Example: 'Learning except helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 42,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'executive'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "責任がある",
+      "観客席、大講義室",
+      "認める、入れる",
+      "経営幹部，役員，経営者、行政上の、実行する、執行する"
     ],
-    "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "answer": 3,
+    "explanation": "'executive' means '経営幹部，役員，経営者、行政上の、実行する、執行する'. Example: 'Learning executive helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 43,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'exhibit'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "作業場、ワークショップ",
+      "器具、装置、設備、電気製品",
+      "を展示する、陳列する、提示する，示す",
+      "構成している、成分の"
     ],
-    "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "answer": 2,
+    "explanation": "'exhibit' means 'を展示する、陳列する、提示する，示す'. Example: 'Learning exhibit helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 44,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'expect'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "並はずれた、非凡な、珍しい",
+      "指名する、選定する、任じる、名づける",
+      "風刺の、風刺的な、風刺を好む",
+      "予期する、期待する"
     ],
-    "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "answer": 3,
+    "explanation": "'expect' means '予期する、期待する'. Example: 'Learning expect helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 45,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'expertise'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "食欲不振",
+      "専門的技術、ノウハウ",
+      "悪、邪悪、欠陥、不備",
+      "蓄え、備品、蓄える"
     ],
-    "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "answer": 1,
+    "explanation": "'expertise' means '専門的技術、ノウハウ'. Example: 'Learning expertise helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 46,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'explain'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "ボール紙、厚紙",
+      "今にも倒れそうな、ぐらぐらする、がたがたの",
+      "説明する、明らかにする",
+      "ぶらつく、散歩する"
     ],
-    "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "answer": 2,
+    "explanation": "'explain' means '説明する、明らかにする'. Example: 'Learning explain helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 47,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'facility'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "初心者、駆け出しの",
+      "草を食う、軽く食べる、間食をする",
+      "管理、運営、経営、統治、行政",
+      "設備、才能"
     ],
-    "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "answer": 3,
+    "explanation": "'facility' means '設備、才能'. Example: 'Learning facility helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 48,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'fail'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "失敗する、しそこなう",
+      "健康診断、検査",
+      "無念、悔しさ",
+      "除去、ほっとすること、安心、救援"
     ],
     "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "explanation": "'fail' means '失敗する、しそこなう'. Example: 'Learning fail helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 49,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'familiar'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "補足する、助成金の",
+      "よく知っている、なじみの、ありふれた、どこにでもある",
+      "続行する、移る、進む",
+      "蓄え、備品、蓄える"
     ],
-    "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "answer": 1,
+    "explanation": "'familiar' means 'よく知っている、なじみの、ありふれた、どこにでもある'. Example: 'Learning familiar helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 50,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'feature'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "再び始める、回復する",
+      "人目を引く特徴、目立った特徴、呼び物",
+      "年に1度の、例年の、1年の、年々の、毎年の",
+      "協議事項、議事日程、予定表"
     ],
-    "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "answer": 1,
+    "explanation": "'feature' means '人目を引く特徴、目立った特徴、呼び物'. Example: 'Learning feature helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 51,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'fee'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "料金、謝礼、手数料、入場料",
+      "交換、後継者",
+      "伝説上の、信じられないほどの、すばらしい",
+      "取りそこなう、逃す"
     ],
     "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "explanation": "'fee' means '料金、謝礼、手数料、入場料'. Example: 'Learning fee helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 52,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'figure'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "図形、形、装飾、数字",
+      "陶器製造、焼き物、窯元",
+      "並はずれた、非凡な、珍しい",
+      "ちょうつがい、かなめ、要点"
     ],
     "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "explanation": "'figure' means '図形、形、装飾、数字'. Example: 'Learning figure helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 53,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'frequent'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "目の、視覚の、光学上の",
+      "風変わりな、奇異な、奇妙な",
+      "引用する",
+      "たびたびの、頻繁な"
     ],
-    "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "answer": 3,
+    "explanation": "'frequent' means 'たびたびの、頻繁な'. Example: 'Learning frequent helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 54,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'further'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "不適当な、適性がなくて",
+      "もっと遠い、そのうえ",
+      "臆病な、ひきょうな、臆病者",
+      "保育園、託児所、養成所"
     ],
-    "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "answer": 1,
+    "explanation": "'further' means 'もっと遠い、そのうえ'. Example: 'Learning further helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 55,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'handle'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "ハンドル、取っ手、扱う、処理する",
+      "卵形の、楕円形の",
+      "思索する、推測をする",
+      "満足を与える、心地よい"
     ],
     "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "explanation": "'handle' means 'ハンドル、取っ手、扱う、処理する'. Example: 'Learning handle helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 56,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'identification'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "停止、休止、行き詰まり",
+      "一様、均一、画一、一律",
+      "同一であることの確認、身分証明証",
+      "発声、発生率、投射"
     ],
-    "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "answer": 2,
+    "explanation": "'identification' means '同一であることの確認、身分証明証'. Example: 'Learning identification helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 57,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'improve'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "印象的な、人目をひく、堂々とした",
+      "忙しそうに動く、せわしく働く、にぎわう",
+      "料理を調達する、提供する、賄う",
+      "改良する"
     ],
-    "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "answer": 3,
+    "explanation": "'improve' means '改良する'. Example: 'Learning improve helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 58,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'include'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "経営幹部，役員，経営者、行政上の、実行する、執行する",
+      "含む",
+      "気取った、偉そうな、崇高な",
+      "たびたびの、頻繁な"
     ],
-    "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "answer": 1,
+    "explanation": "'include' means '含む'. Example: 'Learning include helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 59,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'inquire'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "言及する、ほのめかす",
+      "要約された",
+      "尋ねる、調べる、問い合わせる",
+      "今にも倒れそうな、ぐらぐらする、がたがたの"
     ],
-    "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "answer": 2,
+    "explanation": "'inquire' means '尋ねる、調べる、問い合わせる'. Example: 'Learning inquire helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 60,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'instantly'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "大きさ、積み荷、かさばる",
+      "アレルギー",
+      "味つけした、調味した、経験豊かな",
+      "すぐに、即座に、するとすぐに"
     ],
-    "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "answer": 3,
+    "explanation": "'instantly' means 'すぐに、即座に、するとすぐに'. Example: 'Learning instantly helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 61,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'insurance'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "気絶させる、耳を聞こえなくする、すてきな",
+      "特派員、一致する",
+      "死亡",
+      "保険、保険業"
     ],
-    "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "answer": 3,
+    "explanation": "'insurance' means '保険、保険業'. Example: 'Learning insurance helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 62,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'invest'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "深いふちの、底の知れない、ひどく悪い",
+      "崇拝する",
+      "責任がある",
+      "投資する"
     ],
-    "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "answer": 3,
+    "explanation": "'invest' means '投資する'. Example: 'Learning invest helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 63,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'invite'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "払い戻す、返金する",
+      "招待する",
+      "喜んで、楽しそうな",
+      "気絶させる、耳を聞こえなくする、すてきな"
     ],
-    "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "answer": 1,
+    "explanation": "'invite' means '招待する'. Example: 'Learning invite helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 64,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'invoice'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "巨大な、すばらしい",
+      "管理者、長官、部長",
+      "送り状",
+      "告知、注意すること、注目、気がつく"
     ],
-    "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "answer": 2,
+    "explanation": "'invoice' means '送り状'. Example: 'Learning invoice helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 65,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'involve'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "協議事項、議事日程、予定表",
+      "天蓋、天蓋のようにおおうもの、大空",
+      "巻き込む、伴う、夢中になる",
+      "燃えるような、けばけばしい"
     ],
-    "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "answer": 2,
+    "explanation": "'involve' means '巻き込む、伴う、夢中になる'. Example: 'Learning involve helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 66,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'luggage'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "旅行かばん類、手荷物",
+      "比較する、対照する",
+      "知る、わかる",
+      "発声、発生率、投射"
     ],
     "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "explanation": "'luggage' means '旅行かばん類、手荷物'. Example: 'Learning luggage helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 67,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'manufacture'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "排他的な、高級な、独占的な",
+      "出席者、生産高、解雇する",
+      "配管工、水道業者",
+      "製造、製造業、製造する"
     ],
-    "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "answer": 3,
+    "explanation": "'manufacture' means '製造、製造業、製造する'. Example: 'Learning manufacture helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 68,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'miss'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "基本の、初歩の、原始的な、粗末な、未発達の",
+      "感情を害して、不当な扱いを受けた",
+      "取りそこなう、逃す",
+      "再び始める、回復する"
     ],
-    "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "answer": 2,
+    "explanation": "'miss' means '取りそこなう、逃す'. Example: 'Learning miss helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 69,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'notice'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "再び始める、回復する",
+      "告知、注意すること、注目、気がつく",
+      "穏やかな、静かな、落ち着いた",
+      "迅速に"
     ],
-    "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "answer": 1,
+    "explanation": "'notice' means '告知、注意すること、注目、気がつく'. Example: 'Learning notice helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 70,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'offer'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "隠者、世捨て人",
+      "何でも食べる、雑食性の、手当たりしだいに読む、乱読する",
+      "差し出す、提供する、申し出る",
+      "受け継ぐ、相続する、遺伝する"
     ],
-    "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "answer": 2,
+    "explanation": "'offer' means '差し出す、提供する、申し出る'. Example: 'Learning offer helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 71,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'owe'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "世間の注目、宣伝、広告",
+      "会議、協議会、委員会",
+      "借りがある、負っている",
+      "尋ねる、調べる、問い合わせる"
     ],
-    "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "answer": 2,
+    "explanation": "'owe' means '借りがある、負っている'. Example: 'Learning owe helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 72,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'participate'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "複雑な、入り組んだ",
+      "参加する",
+      "尋ねる、調べる、問い合わせる",
+      "厳しい、質素な"
     ],
-    "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "answer": 1,
+    "explanation": "'participate' means '参加する'. Example: 'Learning participate helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 73,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'passenger'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "あとずさりする、ひるむ、後退する",
+      "乗客、旅客",
+      "はり治療",
+      "候補者"
     ],
-    "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "answer": 1,
+    "explanation": "'passenger' means '乗客、旅客'. Example: 'Learning passenger helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 74,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'plenty'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "たくさんの、豊富な、あり余るほどの",
+      "年に1度の、例年の、1年の、年々の、毎年の",
+      "パンフレット、小冊子",
+      "財産、所有物、土地、特性"
     ],
     "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "explanation": "'plenty' means 'たくさんの、豊富な、あり余るほどの'. Example: 'Learning plenty helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 75,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'preservation'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "面、様相、顔つき",
+      "複雑な、入り組んだ",
+      "保存、維持、保管",
+      "観客席、大講義室"
     ],
-    "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "answer": 2,
+    "explanation": "'preservation' means '保存、維持、保管'. Example: 'Learning preservation helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 76,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'previous'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "休止、まくあい、休憩時間",
+      "上回る、超える、まさる",
+      "あと知恵",
+      "以前の、前の、先の"
     ],
-    "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "answer": 3,
+    "explanation": "'previous' means '以前の、前の、先の'. Example: 'Learning previous helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 77,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'proceed'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "苦しめる、悩ます",
+      "高く評価する、鑑賞する",
+      "進む，続行する",
+      "旧式の、時代遅れの"
     ],
-    "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "answer": 2,
+    "explanation": "'proceed' means '進む，続行する'. Example: 'Learning proceed helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 78,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'promote'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "天蓋、天蓋のようにおおうもの、大空",
+      "設備、才能",
+      "大きさ、積み荷、かさばる",
+      "昇進させる、促進する、助長する"
     ],
-    "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "answer": 3,
+    "explanation": "'promote' means '昇進させる、促進する、助長する'. Example: 'Learning promote helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 79,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'prosperous'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "まごまごして歩く、つまずく",
+      "繁栄する、成功した、好都合の",
+      "貪欲な、熱心な、渇望して",
+      "打ち上げ花火、急騰する"
     ],
-    "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "answer": 1,
+    "explanation": "'prosperous' means '繁栄する、成功した、好都合の'. Example: 'Learning prosperous helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 80,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'provide'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "分析者、アナリスト",
+      "小旅館、小ホテル、宿屋",
+      "提供する、与える、供給する",
+      "徳、美徳、長所"
     ],
-    "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "answer": 2,
+    "explanation": "'provide' means '提供する、与える、供給する'. Example: 'Learning provide helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 81,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'publicity'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "不履行、怠慢、債務不履行、棄権",
+      "眠気",
+      "世間の注目、宣伝、広告",
+      "記憶を助ける、記憶術の"
     ],
-    "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "answer": 2,
+    "explanation": "'publicity' means '世間の注目、宣伝、広告'. Example: 'Learning publicity helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 82,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'recommend'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "を勧める、奨励する",
+      "食欲をそそるもの、前菜",
+      "前の、以前の、前者",
+      "政府などの予算案、予算、 経費"
     ],
     "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "explanation": "'recommend' means 'を勧める、奨励する'. Example: 'Learning recommend helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 83,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'refund'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "風変わりな、奇異な、奇妙な",
+      "全滅させる、完敗させる、圧倒する",
+      "外出、出国",
+      "払い戻す、返金する"
     ],
-    "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "answer": 3,
+    "explanation": "'refund' means '払い戻す、返金する'. Example: 'Learning refund helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 84,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'remind'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "避ける",
+      "せざるをえなくて、ありがたく思って",
+      "伝説上の、信じられないほどの、すばらしい",
+      "思い出させる、気づかせる"
     ],
-    "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "answer": 3,
+    "explanation": "'remind' means '思い出させる、気づかせる'. Example: 'Learning remind helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 85,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'remove'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "首尾一貫した、矛盾のない、調和して",
+      "移動させる、取り除く",
+      "台所の、料理の",
+      "保険、保険業"
     ],
-    "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "answer": 1,
+    "explanation": "'remove' means '移動させる、取り除く'. Example: 'Learning remove helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 86,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'replacement'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "実際に、本当のところは",
+      "害虫、人間のくず、やくざ",
+      "交換、後継者",
+      "あとずさりする、ひるむ、後退する"
     ],
-    "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "answer": 2,
+    "explanation": "'replacement' means '交換、後継者'. Example: 'Learning replacement helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 87,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'representative'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "我慢する",
+      "出席する、参列する.",
+      "代表する、描写して、代理の",
+      "不足額、不足、赤字"
     ],
-    "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "answer": 2,
+    "explanation": "'representative' means '代表する、描写して、代理の'. Example: 'Learning representative helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 88,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'reservation'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "印象的な、人目をひく、堂々とした",
+      "熱中、熱狂、熱中させるもの",
+      "大目に見る、耐性がある",
+      "予約"
     ],
-    "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "answer": 3,
+    "explanation": "'reservation' means '予約'. Example: 'Learning reservation helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 89,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'responsible'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "ボール紙、厚紙",
+      "はり治療",
+      "記念品、みやげ",
+      "責任がある"
     ],
-    "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "answer": 3,
+    "explanation": "'responsible' means '責任がある'. Example: 'Learning responsible helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 90,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'result'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "結果、成り行き、結末",
+      "刈り込んで整える、手入れする、飾りをつける、調節する",
+      "言及する、ほのめかす",
+      "卵形の、楕円形の"
     ],
     "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "explanation": "'result' means '結果、成り行き、結末'. Example: 'Learning result helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 91,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'review'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "蒸発させる",
+      "味つけした、調味した、経験豊かな",
+      "見直す、よく調べる、批評する",
+      "しくじる、失敗する、落第させる"
     ],
-    "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "answer": 2,
+    "explanation": "'review' means '見直す、よく調べる、批評する'. Example: 'Learning review helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 92,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'severe'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "あとずさりする、ひるむ、後退する",
+      "摂生、養生法",
+      "ひどい、厳しい",
+      "控える、我慢する、抑える"
     ],
-    "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "answer": 2,
+    "explanation": "'severe' means 'ひどい、厳しい'. Example: 'Learning severe helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 93,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'shipment'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "船積み、輸送、発送",
+      "料金、謝礼、手数料、入場料",
+      "要求する、要求、需要",
+      "除く、排除する、除外する"
     ],
     "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "explanation": "'shipment' means '船積み、輸送、発送'. Example: 'Learning shipment helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 94,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'shortage'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "排他的な、高級な、独占的な",
+      "警告",
+      "歩行者、競歩者",
+      "不足、欠乏"
     ],
-    "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "answer": 3,
+    "explanation": "'shortage' means '不足、欠乏'. Example: 'Learning shortage helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 95,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'store'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "アレルギー",
+      "蓄え、備品、蓄える",
+      "保育園、託児所、養成所",
+      "巻き込む、伴う、夢中になる"
     ],
-    "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "answer": 1,
+    "explanation": "'store' means '蓄え、備品、蓄える'. Example: 'Learning store helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 96,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'survey'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "今にも倒れそうな、ぐらぐらする、がたがたの",
+      "基本の、初歩の、原始的な、粗末な、未発達の",
+      "空っぽの、空いている、使用されていない",
+      "概観する，ざっと眺める、調査する、調査"
     ],
-    "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "answer": 3,
+    "explanation": "'survey' means '概観する，ざっと眺める、調査する、調査'. Example: 'Learning survey helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 97,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'transportation'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "運送、運賃、輸送機関",
+      "世間の注目、宣伝、広告",
+      "例外的な、異常な、すぐれた",
+      "基本の、初歩の、原始的な、粗末な、未発達の"
     ],
     "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "explanation": "'transportation' means '運送、運賃、輸送機関'. Example: 'Learning transportation helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 98,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'voucher'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "再び始める、回復する",
+      "再び満たす、補充する",
+      "料理を調達する、提供する、賄う",
+      "保証人、クーポン、領収書"
     ],
-    "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "answer": 3,
+    "explanation": "'voucher' means '保証人、クーポン、領収書'. Example: 'Learning voucher helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 99,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'workplace'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "禁止、禁止令、禁止する",
+      "応募者、志願者、申込者、希望者、出願者",
+      "上回る、超える、まさる",
+      "仕事場"
     ],
-    "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "answer": 3,
+    "explanation": "'workplace' means '仕事場'. Example: 'Learning workplace helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 100,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'workshop'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "開放する、免除する",
+      "立ち止まる、停止する、不完全である",
+      "作業場、ワークショップ",
+      "行為、経営、指揮する、案内する、行う"
     ],
-    "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "answer": 2,
+    "explanation": "'workshop' means '作業場、ワークショップ'. Example: 'Learning workshop helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 101,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'acquisition'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "獲得、取得物、利得",
+      "蒸発させる",
+      "誤植",
+      "目の、視覚の、光学上の"
     ],
     "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "explanation": "'acquisition' means '獲得、取得物、利得'. Example: 'Learning acquisition helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 102,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'admit'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "責任がある",
+      "認める、入れる",
+      "後援、ひいき、愛顧",
+      "踏みつける、踏みにじる"
     ],
-    "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "answer": 1,
+    "explanation": "'admit' means '認める、入れる'. Example: 'Learning admit helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 103,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'agenda'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "告知、注意すること、注目、気がつく",
+      "道具、用具、手段",
+      "協議事項、議事日程、予定表",
+      "図形、形、装飾、数字"
     ],
-    "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "answer": 2,
+    "explanation": "'agenda' means '協議事項、議事日程、予定表'. Example: 'Learning agenda helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 104,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'allocate'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "遅らせる、延ばす",
+      "落葉性の、落ちる、はかない、一時的な",
+      "器具、装置、設備、電気製品",
+      "割り当てる、配分する"
     ],
-    "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "answer": 3,
+    "explanation": "'allocate' means '割り当てる、配分する'. Example: 'Learning allocate helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 105,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'annex'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "直立した、正しい",
+      "付加する、添付する、併合する、添付書類",
+      "続行する、移る、進む",
+      "吐く"
     ],
-    "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "answer": 1,
+    "explanation": "'annex' means '付加する、添付する、併合する、添付書類'. Example: 'Learning annex helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 106,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'appliance'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "発掘する、明るみに出す",
+      "器具、装置、設備、電気製品",
+      "打ち上げ花火、急騰する",
+      "ほめる、推薦する、ゆだねる"
     ],
-    "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "answer": 1,
+    "explanation": "'appliance' means '器具、装置、設備、電気製品'. Example: 'Learning appliance helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 107,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'appropriately'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "適切に、ふさわしく",
+      "直立した、正しい",
+      "卵形の、楕円形の",
+      "寒い、荒れた、寂しい、厳しい"
     ],
     "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "explanation": "'appropriately' means '適切に、ふさわしく'. Example: 'Learning appropriately helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 108,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'approximately'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "観客席、大講義室",
+      "喜んで、楽しそうな",
+      "起業家、事業家",
+      "おおよそ、ほぼ"
     ],
-    "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "answer": 3,
+    "explanation": "'approximately' means 'おおよそ、ほぼ'. Example: 'Learning approximately helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 109,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'aspect'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "全滅させる、完敗させる、圧倒する",
+      "荒れ狂う、激しい、乱暴な",
+      "面、様相、顔つき",
+      "要約された"
     ],
-    "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "answer": 2,
+    "explanation": "'aspect' means '面、様相、顔つき'. Example: 'Learning aspect helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 110,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'auditorium'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "豪華な、ぜいたくな",
+      "観客席、大講義室",
+      "姿勢、状況、態度",
+      "適格で、望ましくて"
     ],
-    "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "answer": 1,
+    "explanation": "'auditorium' means '観客席、大講義室'. Example: 'Learning auditorium helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 111,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'bid'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "ほめる、推薦する、ゆだねる",
+      "つける、宣言する、入札",
+      "獣医",
+      "前進、進める、前進させる、提案する、提示する"
     ],
-    "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "answer": 1,
+    "explanation": "'bid' means 'つける、宣言する、入札'. Example: 'Learning bid helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 112,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'brochure'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "引く、引き込む、引き付ける",
+      "透明な、わかりやすい",
+      "名声、威信、称賛",
+      "パンフレット、小冊子"
     ],
-    "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "answer": 3,
+    "explanation": "'brochure' means 'パンフレット、小冊子'. Example: 'Learning brochure helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 113,
     "question": "What is the meaning of 'candidate'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "避ける",
+      "ぶらつく、散歩する",
+      "旅行かばん類、手荷物",
+      "候補者"
     ],
-    "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "answer": 3,
+    "explanation": "'candidate' means '候補者'. Example: 'Learning candidate helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 114,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'cardboard'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "特派員、一致する",
+      "ボール紙、厚紙",
+      "食欲不振",
+      "あっと言わせるほど"
     ],
-    "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "answer": 1,
+    "explanation": "'cardboard' means 'ボール紙、厚紙'. Example: 'Learning cardboard helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 115,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'checkup'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "建築家、建築士、設計者、企画者",
+      "健康診断、検査",
+      "名声、威信、称賛",
+      "保育園、託児所、養成所"
     ],
-    "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "answer": 1,
+    "explanation": "'checkup' means '健康診断、検査'. Example: 'Learning checkup helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 116,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'commend'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "ほめる、推薦する、ゆだねる",
+      "弁済する、償還する、請け出す、取り返す",
+      "悪、邪悪、欠陥、不備",
+      "受け継ぐ、相続する、遺伝する"
     ],
     "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "explanation": "'commend' means 'ほめる、推薦する、ゆだねる'. Example: 'Learning commend helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 117,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'component'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "構成している、成分の",
+      "初心者、駆け出しの",
+      "校正係",
+      "まごまごして歩く、つまずく"
     ],
     "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "explanation": "'component' means '構成している、成分の'. Example: 'Learning component helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 118,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'conduct'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "以前の、前の、先の",
+      "よく知っている、なじみの、ありふれた、どこにでもある",
+      "行為、経営、指揮する、案内する、行う",
+      "結果、成り行き、結末"
     ],
-    "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "answer": 2,
+    "explanation": "'conduct' means '行為、経営、指揮する、案内する、行う'. Example: 'Learning conduct helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 119,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'cuisine'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "油断のない、警戒して",
+      "空っぽの、空いている、使用されていない",
+      "料理、料理法",
+      "気まぐれな、移り気な、急変しがちな"
     ],
-    "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "answer": 2,
+    "explanation": "'cuisine' means '料理、料理法'. Example: 'Learning cuisine helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 120,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'deficit'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "行商人、売り主",
+      "目録、棚卸し",
+      "不足額、不足、赤字",
+      "ペンネーム"
     ],
-    "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "answer": 2,
+    "explanation": "'deficit' means '不足額、不足、赤字'. Example: 'Learning deficit helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 121,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'demand'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "ボール紙、厚紙",
+      "要求する、要求、需要",
+      "循環、流通、発行部数、売れ行き",
+      "隠者、世捨て人"
     ],
-    "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "answer": 1,
+    "explanation": "'demand' means '要求する、要求、需要'. Example: 'Learning demand helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 122,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'designate'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "進む，続行する",
+      "を展示する、陳列する、提示する，示す",
+      "目の、視覚の、光学上の",
+      "指名する、選定する、任じる、名づける"
     ],
-    "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "answer": 3,
+    "explanation": "'designate' means '指名する、選定する、任じる、名づける'. Example: 'Learning designate helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 123,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'discard'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "捨てる、処分する",
+      "ばつの悪い、やっかいな",
+      "今にも倒れそうな、ぐらぐらする、がたがたの",
+      "作業場、ワークショップ"
     ],
     "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "explanation": "'discard' means '捨てる、処分する'. Example: 'Learning discard helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 124,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'durable'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "ゆっくり歩く",
+      "気が進まない、いやいやながらの",
+      "永続性のある、長持ちする、丈夫な",
+      "誤植"
     ],
-    "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "answer": 2,
+    "explanation": "'durable' means '永続性のある、長持ちする、丈夫な'. Example: 'Learning durable helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 125,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'eligible'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "厳しい、質素な",
+      "適格で、望ましくて",
+      "確認、証明",
+      "迅速に"
     ],
-    "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "answer": 1,
+    "explanation": "'eligible' means '適格で、望ましくて'. Example: 'Learning eligible helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 126,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'embarrassing'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "予約",
+      "刈り込んで整える、手入れする、飾りをつける、調節する",
+      "ばつの悪い、やっかいな",
+      "広告すること、広告"
     ],
-    "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "answer": 2,
+    "explanation": "'embarrassing' means 'ばつの悪い、やっかいな'. Example: 'Learning embarrassing helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 127,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'enthusiastic'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "熱烈な、熱中して",
+      "を勧める、奨励する",
+      "出席する、参列する.",
+      "料理、料理法"
     ],
     "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "explanation": "'enthusiastic' means '熱烈な、熱中して'. Example: 'Learning enthusiastic helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 128,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'exclusive'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "財産、所有物、土地、特性",
+      "排他的な、高級な、独占的な",
+      "忙しそうに動く、せわしく働く、にぎわう",
+      "ゆっくり歩く"
     ],
-    "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "answer": 1,
+    "explanation": "'exclusive' means '排他的な、高級な、独占的な'. Example: 'Learning exclusive helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 129,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'expedite'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "風刺の、風刺的な、風刺を好む",
+      "ひどく傷つける、そこなう、台なしにする",
+      "透明な、わかりやすい",
+      "はかどらせる、促進させる"
     ],
-    "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "answer": 3,
+    "explanation": "'expedite' means 'はかどらせる、促進させる'. Example: 'Learning expedite helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 130,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'expire'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "浪費する、ぜいたくな、豊富な",
+      "内々関与して",
+      "気取った、偉そうな、崇高な",
+      "満了する、終了する、死ぬ"
     ],
-    "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "answer": 3,
+    "explanation": "'expire' means '満了する、終了する、死ぬ'. Example: 'Learning expire helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 131,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'extinguish'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "消す、失わせる",
+      "たびたびの、頻繁な",
+      "大きさ、積み荷、かさばる",
+      "藻類"
     ],
     "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "explanation": "'extinguish' means '消す、失わせる'. Example: 'Learning extinguish helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 132,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'facilitate'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "抵当、担保",
+      "容易にする、楽にする、促進する",
+      "野生生物",
+      "代表する、描写して、代理の"
     ],
-    "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "answer": 1,
+    "explanation": "'facilitate' means '容易にする、楽にする、促進する'. Example: 'Learning facilitate helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 133,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'hallway'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "玄関、廊下",
+      "建築家、建築士、設計者、企画者",
+      "絞る、ねじる、苦しめる",
+      "広告すること、広告"
     ],
     "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "explanation": "'hallway' means '玄関、廊下'. Example: 'Learning hallway helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 134,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'handout'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "折りたたみ広告、刷り物、ハンドアウト、施し物",
+      "適切に、ふさわしく",
+      "目録、棚卸し",
+      "旅行かばん類、手荷物"
     ],
     "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "explanation": "'handout' means '折りたたみ広告、刷り物、ハンドアウト、施し物'. Example: 'Learning handout helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 135,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'inventory'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "あっと言わせるほど",
+      "目録、棚卸し",
+      "ぞっとするほど嫌う",
+      "侮辱る、無礼な言動をする"
     ],
-    "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "answer": 1,
+    "explanation": "'inventory' means '目録、棚卸し'. Example: 'Learning inventory helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 136,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'justify'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "送り状",
+      "休止、まくあい、休憩時間",
+      "正しいとする、正当化する",
+      "不履行、怠慢、債務不履行、棄権"
     ],
-    "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "answer": 2,
+    "explanation": "'justify' means '正しいとする、正当化する'. Example: 'Learning justify helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 137,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'lottery'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "激怒、憤り",
+      "くじ引き、運",
+      "野生生物",
+      "ぼろぼろの、ぼろを着た"
     ],
-    "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "answer": 1,
+    "explanation": "'lottery' means 'くじ引き、運'. Example: 'Learning lottery helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 138,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'novice'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "手始め、主導権",
+      "初心者、駆け出しの",
+      "関係している、重要である、心配させる",
+      "保存、維持、保管"
     ],
-    "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "answer": 1,
+    "explanation": "'novice' means '初心者、駆け出しの'. Example: 'Learning novice helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 139,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'obliged'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "今の、現在の、流通している",
+      "喜んで、楽しそうな",
+      "せざるをえなくて、ありがたく思って",
+      "まごまごして歩く、つまずく"
     ],
-    "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "answer": 2,
+    "explanation": "'obliged' means 'せざるをえなくて、ありがたく思って'. Example: 'Learning obliged helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 140,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'outdated'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "知識を与える、教育的な、有益な",
+      "例外的な、異常な、すぐれた",
+      "今にも倒れそうな、ぐらぐらする、がたがたの",
+      "旧式の、時代遅れの"
     ],
-    "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "answer": 3,
+    "explanation": "'outdated' means '旧式の、時代遅れの'. Example: 'Learning outdated helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 141,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'oval'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "感情を害して、不当な扱いを受けた",
+      "熱心な、熱狂的な、熱中して",
+      "豪華な、ぜいたくな",
+      "卵形の、楕円形の"
     ],
-    "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "answer": 3,
+    "explanation": "'oval' means '卵形の、楕円形の'. Example: 'Learning oval helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 142,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'pedestrian'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "大混乱、地獄",
+      "盛装する",
+      "歩行者、競歩者",
+      "質問、疑問、疑問符"
     ],
-    "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "answer": 2,
+    "explanation": "'pedestrian' means '歩行者、競歩者'. Example: 'Learning pedestrian helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 143,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'plumber'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "配管工、水道業者",
+      "貪欲な、熱心な、渇望して",
+      "記念品、みやげ",
+      "元気づける、促進する"
     ],
     "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "explanation": "'plumber' means '配管工、水道業者'. Example: 'Learning plumber helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 144,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'pottery'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "陶器製造、焼き物、窯元",
+      "落葉性の、落ちる、はかない、一時的な",
+      "心に描く、想像する",
+      "ぶらつく、散歩する"
     ],
     "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "explanation": "'pottery' means '陶器製造、焼き物、窯元'. Example: 'Learning pottery helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 145,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'premise'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "前提、家屋",
+      "気取った、偉そうな、崇高な",
+      "商業、通商、貿易、交際",
+      "上回る、超える、まさる"
     ],
     "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "explanation": "'premise' means '前提、家屋'. Example: 'Learning premise helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 146,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'procedure'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "手続き、訴訟手続き、",
+      "ニルバーナ、解脱の境地",
+      "ちょうつがい、かなめ、要点",
+      "手押し一輪車"
     ],
     "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "explanation": "'procedure' means '手続き、訴訟手続き、'. Example: 'Learning procedure helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 147,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'prohibit'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "全滅させる、完敗させる、圧倒する",
+      "確認、証明",
+      "禁止する、妨げる",
+      "例外的な、異常な、すぐれた"
     ],
-    "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "answer": 2,
+    "explanation": "'prohibit' means '禁止する、妨げる'. Example: 'Learning prohibit helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 148,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'property'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "財産、所有物、土地、特性",
+      "前進、進める、前進させる、提案する、提示する",
+      "大失敗",
+      "受け継ぐ、相続する、遺伝する"
     ],
     "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "explanation": "'property' means '財産、所有物、土地、特性'. Example: 'Learning property helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 149,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'pursue'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "改良する",
+      "誘惑するもの、魅惑、ルアー",
+      "追う、追求する、従事する",
+      "を評価する"
     ],
-    "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "answer": 2,
+    "explanation": "'pursue' means '追う、追求する、従事する'. Example: 'Learning pursue helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 150,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'reference'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "参考、参考文献、証明書",
+      "消す、失わせる",
+      "応じること、親切",
+      "侮辱る、無礼な言動をする"
     ],
     "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "explanation": "'reference' means '参考、参考文献、証明書'. Example: 'Learning reference helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 151,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'reimburse'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "払い戻す、弁済する、返済する",
+      "出席する、参列する.",
+      "要約された",
+      "獣医"
     ],
     "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "explanation": "'reimburse' means '払い戻す、弁済する、返済する'. Example: 'Learning reimburse helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 152,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'relief'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "除去、ほっとすること、安心、救援",
+      "適格で、望ましくて",
+      "豊富に、たくさん",
+      "しるし、記念品、しるしとなる"
     ],
     "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "explanation": "'relief' means '除去、ほっとすること、安心、救援'. Example: 'Learning relief helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 153,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'retrieve'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "倉庫、貯蔵所",
+      "回収する、取り戻す",
+      "緯度、自由範囲",
+      "病的な、憂うつな、陰気な、病気に起因する"
     ],
-    "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "answer": 1,
+    "explanation": "'retrieve' means '回収する、取り戻す'. Example: 'Learning retrieve helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 154,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'shopper'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "並べる、並列する",
+      "買い物客、買い物袋、密告者",
+      "蓄え、備品、蓄える",
+      "くじ引き、運"
     ],
-    "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "answer": 1,
+    "explanation": "'shopper' means '買い物客、買い物袋、密告者'. Example: 'Learning shopper helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 155,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'slate'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "紹介の、前置きの、序説の、入門的な、予備の",
+      "粘板岩、石板、候補者名簿",
+      "思い出させる、気づかせる",
+      "風刺画、戯画"
     ],
-    "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "answer": 1,
+    "explanation": "'slate' means '粘板岩、石板、候補者名簿'. Example: 'Learning slate helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 156,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'souvenir'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "不足額、不足、赤字",
+      "解ける、打ち解ける",
+      "産む、出産する",
+      "記念品、みやげ"
     ],
-    "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "answer": 3,
+    "explanation": "'souvenir' means '記念品、みやげ'. Example: 'Learning souvenir helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 157,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'speculate'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "並はずれた、非凡な、珍しい",
+      "特色のある、特有の",
+      "思索する、推測をする",
+      "会議、協議会、委員会"
     ],
-    "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "answer": 2,
+    "explanation": "'speculate' means '思索する、推測をする'. Example: 'Learning speculate helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 158,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'standstill'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "信任の厚い、内々の、打ち解けて",
+      "停止、休止、行き詰まり",
+      "要求する、要求、需要",
+      "目録、棚卸し"
     ],
-    "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "answer": 1,
+    "explanation": "'standstill' means '停止、休止、行き詰まり'. Example: 'Learning standstill helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 159,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'stroll'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "摂生、養生法",
+      "特色のある、特有の",
+      "蒸発させる",
+      "ぶらつく、散歩する"
     ],
-    "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "answer": 3,
+    "explanation": "'stroll' means 'ぶらつく、散歩する'. Example: 'Learning stroll helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 160,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'subsidiary'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "補足する、助成金の",
+      "ペンネーム",
+      "風刺の、風刺的な、風刺を好む",
+      "外科の、整形用の"
     ],
     "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "explanation": "'subsidiary' means '補足する、助成金の'. Example: 'Learning subsidiary helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 161,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'substitute'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "贈与する、寄贈する",
+      "指名する、選定する、任じる、名づける",
+      "玄関、廊下",
+      "代える、取り替える"
     ],
-    "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "answer": 3,
+    "explanation": "'substitute' means '代える、取り替える'. Example: 'Learning substitute helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 162,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'superb'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "すばらしい、堂々とした、壮麗な",
+      "大混乱、地獄",
+      "初心者、駆け出しの",
+      "たくさんの、豊富な、あり余るほどの"
     ],
     "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "explanation": "'superb' means 'すばらしい、堂々とした、壮麗な'. Example: 'Learning superb helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 163,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'superintendent'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "財産、所有物、土地、特性",
+      "管理者、長官、部長",
+      "料理のつけ合わせ、飾り物",
+      "消費者"
     ],
-    "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "answer": 1,
+    "explanation": "'superintendent' means '管理者、長官、部長'. Example: 'Learning superintendent helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 164,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'supplement'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "教授、授業料、月謝",
+      "死亡",
+      "補足、付録、追加する",
+      "踏みつける、踏みにじる"
     ],
-    "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "answer": 2,
+    "explanation": "'supplement' means '補足、付録、追加する'. Example: 'Learning supplement helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 165,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'surpass'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "昇進させる、促進する、助長する",
+      "よく知っている、なじみの、ありふれた、どこにでもある",
+      "真ちゅう、金管楽器",
+      "上回る、超える、まさる"
     ],
-    "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "answer": 3,
+    "explanation": "'surpass' means '上回る、超える、まさる'. Example: 'Learning surpass helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 166,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'surrounding'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "囲む、周囲の",
+      "同僚",
+      "消費者",
+      "禁止する、妨げる"
     ],
     "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "explanation": "'surrounding' means '囲む、周囲の'. Example: 'Learning surrounding helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 167,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'suspicion'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "容疑、疑い、いぶかり、気づくこと",
+      "根拠の確実な、有効な、正当な",
+      "ひどく傷つける、そこなう、台なしにする",
+      "複雑な、入り組んだ"
     ],
     "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "explanation": "'suspicion' means '容疑、疑い、いぶかり、気づくこと'. Example: 'Learning suspicion helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 168,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'swiftly'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "誤植",
+      "料金、謝礼、手数料、入場料",
+      "摂生、養生法",
+      "迅速に"
     ],
-    "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "answer": 3,
+    "explanation": "'swiftly' means '迅速に'. Example: 'Learning swiftly helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 169,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'tariff'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "関税、運賃表、料金表",
+      "思索する、推測をする",
+      "足場、組み立て舞台",
+      "豊富に、たくさん"
     ],
     "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "explanation": "'tariff' means '関税、運賃表、料金表'. Example: 'Learning tariff helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 170,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'thaw'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "認める、入れる",
+      "解ける、打ち解ける",
+      "せざるをえなくて、ありがたく思って",
+      "全滅させる、完敗させる、圧倒する"
     ],
-    "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "answer": 1,
+    "explanation": "'thaw' means '解ける、打ち解ける'. Example: 'Learning thaw helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 171,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'timepiece'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "立ち止まる、停止する、不完全である",
+      "死亡",
+      "時計",
+      "徳、美徳、長所"
     ],
-    "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "answer": 2,
+    "explanation": "'timepiece' means '時計'. Example: 'Learning timepiece helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 172,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'token'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "浪費する、ぜいたくな、豊富な",
+      "しるし、記念品、しるしとなる",
+      "送り状",
+      "出席者、生産高、解雇する"
     ],
-    "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "answer": 1,
+    "explanation": "'token' means 'しるし、記念品、しるしとなる'. Example: 'Learning token helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 173,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'tolerate'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "支出、経費",
+      "大目に見る、耐性がある",
+      "売場、省、部、局",
+      "行商人、売り主"
     ],
-    "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "answer": 1,
+    "explanation": "'tolerate' means '大目に見る、耐性がある'. Example: 'Learning tolerate helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 174,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'transfer'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "契約、協定、契約書",
+      "移す、転任させる、移転、移動",
+      "貪欲な、熱心な、渇望して",
+      "を勧める、奨励する"
     ],
-    "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "answer": 1,
+    "explanation": "'transfer' means '移す、転任させる、移転、移動'. Example: 'Learning transfer helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 175,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'transparent'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "透明な、わかりやすい",
+      "回収する、取り戻す",
+      "知る、わかる",
+      "保険、保険業"
     ],
     "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "explanation": "'transparent' means '透明な、わかりやすい'. Example: 'Learning transparent helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 176,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'tuition'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "教授、授業料、月謝",
+      "提供する、与える、供給する",
+      "盛装する",
+      "足場、組み立て舞台"
     ],
     "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "explanation": "'tuition' means '教授、授業料、月謝'. Example: 'Learning tuition helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 177,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'turbulent'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "仕事場",
+      "荒れ狂う、激しい、乱暴な",
+      "移す、転任させる、移転、移動",
+      "思索する、推測をする"
     ],
-    "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "answer": 1,
+    "explanation": "'turbulent' means '荒れ狂う、激しい、乱暴な'. Example: 'Learning turbulent helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 178,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'turnout'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "出席者、生産高、解雇する",
+      "比較する、対照する",
+      "不足額、不足、赤字",
+      "かき乱す、混乱させる、不安にさせる"
     ],
     "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "explanation": "'turnout' means '出席者、生産高、解雇する'. Example: 'Learning turnout helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 179,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'unanimous'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "合意して、満場一致の",
+      "同僚",
+      "喜んで、楽しそうな",
+      "燃えるような、けばけばしい"
     ],
     "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "explanation": "'unanimous' means '合意して、満場一致の'. Example: 'Learning unanimous helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 180,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'unearth'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "排他的な、高級な、独占的な",
+      "実際に、本当のところは",
+      "能力、機能、学部",
+      "発掘する、明るみに出す"
     ],
-    "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "answer": 3,
+    "explanation": "'unearth' means '発掘する、明るみに出す'. Example: 'Learning unearth helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 181,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'uniformity'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "抵当、担保",
+      "応募者、志願者、申込者、希望者、出願者",
+      "一様、均一、画一、一律",
+      "製造、製造業、製造する"
     ],
-    "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "answer": 2,
+    "explanation": "'uniformity' means '一様、均一、画一、一律'. Example: 'Learning uniformity helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 182,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'utensil'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "油断のない、警戒して",
+      "高価な、大切な",
+      "歳入、総収入、税務局",
+      "用具、家庭用品"
     ],
-    "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "answer": 3,
+    "explanation": "'utensil' means '用具、家庭用品'. Example: 'Learning utensil helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 183,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'utilization'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "利用",
+      "責任がある",
+      "根拠、証明書",
+      "抵抗する、逆らう、我慢する"
     ],
     "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "explanation": "'utilization' means '利用'. Example: 'Learning utilization helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 184,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'vacant'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "空っぽの、空いている、使用されていない",
+      "病的な、憂うつな、陰気な、病気に起因する",
+      "ちょうつがい、かなめ、要点",
+      "上回る、超える、まさる"
     ],
     "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "explanation": "'vacant' means '空っぽの、空いている、使用されていない'. Example: 'Learning vacant helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 185,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'valid'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "きちんとした、整然とした、かなりの",
+      "根拠の確実な、有効な、正当な",
+      "ちょうつがい、かなめ、要点",
+      "たくさんの、豊富な、あり余るほどの"
     ],
-    "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "answer": 1,
+    "explanation": "'valid' means '根拠の確実な、有効な、正当な'. Example: 'Learning valid helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 186,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'vaporize'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "関係している、重要である、心配させる",
+      "捨てる、処分する",
+      "旅行かばん類、手荷物",
+      "蒸発させる"
     ],
-    "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "answer": 3,
+    "explanation": "'vaporize' means '蒸発させる'. Example: 'Learning vaporize helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 187,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'vendor'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "設備、才能",
+      "除く、排除する、除外する",
+      "医師、内科医",
+      "行商人、売り主"
     ],
-    "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "answer": 3,
+    "explanation": "'vendor' means '行商人、売り主'. Example: 'Learning vendor helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 188,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'venue'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "発声、発生率、投射",
+      "首尾一貫した、矛盾のない、調和して",
+      "開催地、予定地、場所",
+      "並べる、並列する"
     ],
-    "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "answer": 2,
+    "explanation": "'venue' means '開催地、予定地、場所'. Example: 'Learning venue helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 189,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'vice'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "下劣な、下品な、不名誉な、恥ずべき、身分の卑しい",
+      "医師、内科医",
+      "悪、邪悪、欠陥、不備",
+      "避ける"
     ],
-    "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "answer": 2,
+    "explanation": "'vice' means '悪、邪悪、欠陥、不備'. Example: 'Learning vice helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 190,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'virtue'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "見直す、よく調べる、批評する",
+      "再び満たす、補充する",
+      "解ける、打ち解ける",
+      "徳、美徳、長所"
     ],
-    "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "answer": 3,
+    "explanation": "'virtue' means '徳、美徳、長所'. Example: 'Learning virtue helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 191,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'warehouse'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "売場、省、部、局",
+      "倉庫、貯蔵所",
+      "パラリーガル、弁護士補助員",
+      "存立できる、実行可能な、生存できる"
     ],
-    "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "answer": 1,
+    "explanation": "'warehouse' means '倉庫、貯蔵所'. Example: 'Learning warehouse helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 192,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'warning'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "荒れ野、だだっ広い場所",
+      "ばつの悪い、やっかいな",
+      "興奮した、てんてこまいの、消耗熱の",
+      "警告"
     ],
-    "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "answer": 3,
+    "explanation": "'warning' means '警告'. Example: 'Learning warning helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 193,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'warrant'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "ハンドル、取っ手、扱う、処理する",
+      "歳入、総収入、税務局",
+      "下劣な、下品な、不名誉な、恥ずべき、身分の卑しい",
+      "根拠、証明書"
     ],
-    "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "answer": 3,
+    "explanation": "'warrant' means '根拠、証明書'. Example: 'Learning warrant helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 194,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'welfare'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "予期する、期待する",
+      "以前の、前の、先の",
+      "尋ねる、調べる、問い合わせる",
+      "福祉、福祉事業、生活保護"
     ],
-    "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "answer": 3,
+    "explanation": "'welfare' means '福祉、福祉事業、生活保護'. Example: 'Learning welfare helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 195,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'wheelbarrow'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "うなる、がみがみ言う、とどろく",
+      "真ちゅう、金管楽器",
+      "野生生物",
+      "手押し一輪車"
     ],
-    "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "answer": 3,
+    "explanation": "'wheelbarrow' means '手押し一輪車'. Example: 'Learning wheelbarrow helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 196,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'wilderness'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "満足を与える、心地よい",
+      "ペンネーム",
+      "代える、取り替える",
+      "荒れ野、だだっ広い場所"
     ],
-    "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "answer": 3,
+    "explanation": "'wilderness' means '荒れ野、だだっ広い場所'. Example: 'Learning wilderness helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 197,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'withstand'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "臆病な、ひきょうな、臆病者",
+      "余裕がある、差し支えない",
+      "禁止、禁止令、禁止する",
+      "抵抗する、逆らう、我慢する"
     ],
-    "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "answer": 3,
+    "explanation": "'withstand' means '抵抗する、逆らう、我慢する'. Example: 'Learning withstand helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 198,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'zeal'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "熱心、熱中、熱意",
+      "を展示する、陳列する、提示する，示す",
+      "巨大な、すばらしい",
+      "外科の、整形用の"
     ],
     "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "explanation": "'zeal' means '熱心、熱中、熱意'. Example: 'Learning zeal helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 199,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'zealous'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "壊れやすい、もろい、はかない",
+      "風刺画、戯画",
+      "熱心な、熱狂的な、熱中して",
+      "不適当な、適性がなくて"
     ],
-    "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "answer": 2,
+    "explanation": "'zealous' means '熱心な、熱狂的な、熱中して'. Example: 'Learning zealous helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 200,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'zenith'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "伝説上の、信じられないほどの、すばらしい",
+      "高価な、大切な",
+      "分析者、アナリスト",
+      "天頂、頂点、絶頂"
     ],
-    "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "answer": 3,
+    "explanation": "'zenith' means '天頂、頂点、絶頂'. Example: 'Learning zenith helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 201,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'abridged'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "熱中、熱狂、熱中させるもの",
+      "要約された",
+      "基本の、初歩の、原始的な、粗末な、未発達の",
+      "移す、転任させる、移転、移動"
     ],
-    "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "answer": 1,
+    "explanation": "'abridged' means '要約された'. Example: 'Learning abridged helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 202,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'accomplished'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "完成した、既成の、熟練した",
+      "商業、通商、貿易、交際",
+      "手押し一輪車",
+      "はり治療"
     ],
     "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "explanation": "'accomplished' means '完成した、既成の、熟練した'. Example: 'Learning accomplished helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 203,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'acknowledgement'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "不足、欠乏",
+      "承認、領収書、感謝のしるし",
+      "思い出させる、気づかせる",
+      "ひどい、厳しい"
     ],
-    "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "answer": 1,
+    "explanation": "'acknowledgement' means '承認、領収書、感謝のしるし'. Example: 'Learning acknowledgement helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 204,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'aging'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "昇進させる、促進する、助長する",
+      "隠者、世捨て人",
+      "老齢化、老化、熟成",
+      "永続性のある、長持ちする、丈夫な"
     ],
-    "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "answer": 2,
+    "explanation": "'aging' means '老齢化、老化、熟成'. Example: 'Learning aging helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 205,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'alert'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "昇進させる、促進する、助長する",
+      "油断のない、警戒して",
+      "長引く、ひどい",
+      "よく知っている、なじみの、ありふれた、どこにでもある"
     ],
-    "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "answer": 1,
+    "explanation": "'alert' means '油断のない、警戒して'. Example: 'Learning alert helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 206,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'allergy'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "アレルギー",
+      "先導する、すぐれた、主要な",
+      "開催地、予定地、場所",
+      "不良な、荒れ模様の"
     ],
     "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "explanation": "'allergy' means 'アレルギー'. Example: 'Learning allergy helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 207,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'appetizer'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "たくさんの、豊富な、あり余るほどの",
+      "概観する，ざっと眺める、調査する、調査",
+      "食欲をそそるもの、前菜",
+      "分析者、アナリスト"
     ],
-    "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "answer": 2,
+    "explanation": "'appetizer' means '食欲をそそるもの、前菜'. Example: 'Learning appetizer helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 208,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'applause'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "無念、悔しさ",
+      "一様、均一、画一、一律",
+      "指名する",
+      "拍手かっさい、称賛"
     ],
-    "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "answer": 3,
+    "explanation": "'applause' means '拍手かっさい、称賛'. Example: 'Learning applause helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 209,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'assorted'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "分類した、調和した",
+      "根拠、証明書",
+      "認める、入れる",
+      "風変わりな、奇異な、奇妙な"
     ],
     "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "explanation": "'assorted' means '分類した、調和した'. Example: 'Learning assorted helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 210,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'attire'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "面、様相、顔つき",
+      "盛装する",
+      "もっと遠い、そのうえ",
+      "追う、追求する、従事する"
     ],
-    "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "answer": 1,
+    "explanation": "'attire' means '盛装する'. Example: 'Learning attire helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 211,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'austere'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "教授、授業料、月謝",
+      "厳しい、質素な",
+      "乗客、旅客",
+      "超過する、越える"
     ],
-    "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "answer": 1,
+    "explanation": "'austere' means '厳しい、質素な'. Example: 'Learning austere helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 212,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'avid'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "代表する、描写して、代理の",
+      "礼儀正しく思いやりのある、親切な",
+      "たくさんの、豊富な、あり余るほどの",
+      "貪欲な、熱心な、渇望して"
     ],
-    "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "answer": 3,
+    "explanation": "'avid' means '貪欲な、熱心な、渇望して'. Example: 'Learning avid helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 213,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'ban'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "禁止、禁止令、禁止する",
+      "払い戻す、返金する",
+      "贈与する、寄贈する",
+      "誘惑するもの、魅惑、ルアー"
     ],
     "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "explanation": "'ban' means '禁止、禁止令、禁止する'. Example: 'Learning ban helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 214,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'bear'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "産む、出産する",
+      "基本の、初歩の、原始的な、粗末な、未発達の",
+      "礼儀正しく思いやりのある、親切な",
+      "合意して、満場一致の"
     ],
     "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "explanation": "'bear' means '産む、出産する'. Example: 'Learning bear helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 215,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'boost'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "押し上げ、後援、増大",
+      "厳しい、質素な",
+      "必然的に伴う、相続人を限定して譲る",
+      "首尾一貫した、矛盾のない、調和して"
     ],
     "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "explanation": "'boost' means '押し上げ、後援、増大'. Example: 'Learning boost helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 216,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'breathtakingly'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "確認、証明",
+      "以前の、前の、先の",
+      "信任の厚い、内々の、打ち解けて",
+      "あっと言わせるほど"
     ],
-    "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "answer": 3,
+    "explanation": "'breathtakingly' means 'あっと言わせるほど'. Example: 'Learning breathtakingly helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 217,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'bulk'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "死亡",
+      "分解検査する、追いついて追い抜く",
+      "観客席、大講義室",
+      "大きさ、積み荷、かさばる"
     ],
-    "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "answer": 3,
+    "explanation": "'bulk' means '大きさ、積み荷、かさばる'. Example: 'Learning bulk helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 218,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'burst'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "破裂する",
+      "説明する、明らかにする",
+      "適切に、ふさわしく",
+      "注目すべき、顕著な、著しい"
     ],
     "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "explanation": "'burst' means '破裂する'. Example: 'Learning burst helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 219,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'bypass'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "バイパス、側管",
+      "契約、協定、契約書",
+      "特許、特許品",
+      "貪欲な、熱心な、渇望して"
     ],
     "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "explanation": "'bypass' means 'バイパス、側管'. Example: 'Learning bypass helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 220,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'carrier'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "禁止する、妨げる",
+      "運搬人、郵便配達員、新聞配達人、運送業者、運送会社",
+      "パンフレット、小冊子",
+      "料金、謝礼、手数料、入場料"
     ],
-    "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "answer": 1,
+    "explanation": "'carrier' means '運搬人、郵便配達員、新聞配達人、運送業者、運送会社'. Example: 'Learning carrier helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 221,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'certified'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "今にも倒れそうな、ぐらぐらする、がたがたの",
+      "分解検査する、追いついて追い抜く",
+      "保証された、公認の",
+      "バイパス、側管"
     ],
-    "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "answer": 2,
+    "explanation": "'certified' means '保証された、公認の'. Example: 'Learning certified helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 222,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'chronic'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "長引く、ひどい",
+      "容易にする、楽にする、促進する",
+      "特色のある、特有の",
+      "売場、省、部、局"
     ],
     "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "explanation": "'chronic' means '長引く、ひどい'. Example: 'Learning chronic helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 223,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'circulation'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "循環、流通、発行部数、売れ行き",
+      "分解検査する、追いついて追い抜く",
+      "贈与する、寄贈する",
+      "送り状"
     ],
     "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "explanation": "'circulation' means '循環、流通、発行部数、売れ行き'. Example: 'Learning circulation helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 224,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'cite'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "バイパス、側管",
+      "医師、内科医",
+      "引用する",
+      "製造、製造業、製造する"
     ],
-    "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "answer": 2,
+    "explanation": "'cite' means '引用する'. Example: 'Learning cite helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 225,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'colossal'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "巨大な、すばらしい",
+      "出現する、ように見える、見受けられる",
+      "面、様相、顔つき",
+      "不良な、荒れ模様の"
     ],
     "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "explanation": "'colossal' means '巨大な、すばらしい'. Example: 'Learning colossal helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 226,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'commerce'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "熱烈な、熱中して",
+      "器具、装置、設備、電気製品",
+      "保育園、託児所、養成所",
+      "商業、通商、貿易、交際"
     ],
-    "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "answer": 3,
+    "explanation": "'commerce' means '商業、通商、貿易、交際'. Example: 'Learning commerce helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 227,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'compliance'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "喜んで、楽しそうな",
+      "礼儀正しく思いやりのある、親切な",
+      "感情を害して、不当な扱いを受けた",
+      "応じること、親切"
     ],
-    "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "answer": 3,
+    "explanation": "'compliance' means '応じること、親切'. Example: 'Learning compliance helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 228,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'component'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "回収する、取り戻す",
+      "侮辱る、無礼な言動をする",
+      "構成している、成分の",
+      "すばらしい、堂々とした、壮麗な"
     ],
-    "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "answer": 2,
+    "explanation": "'component' means '構成している、成分の'. Example: 'Learning component helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 229,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'confidential'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "高く評価する、鑑賞する",
+      "隠者、世捨て人",
+      "構成している、成分の",
+      "信任の厚い、内々の、打ち解けて"
     ],
-    "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "answer": 3,
+    "explanation": "'confidential' means '信任の厚い、内々の、打ち解けて'. Example: 'Learning confidential helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 230,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'consistent'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "首尾一貫した、矛盾のない、調和して",
+      "排泄する",
+      "名声、威信、称賛",
+      "元気づける、促進する"
     ],
     "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "explanation": "'consistent' means '首尾一貫した、矛盾のない、調和して'. Example: 'Learning consistent helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 231,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'correspondent'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "商業、通商、貿易、交際",
+      "熱中、熱狂、熱中させるもの",
+      "避ける",
+      "特派員、一致する"
     ],
-    "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "answer": 3,
+    "explanation": "'correspondent' means '特派員、一致する'. Example: 'Learning correspondent helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 232,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'courteous'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "礼儀正しく思いやりのある、親切な",
+      "不良な、荒れ模様の",
+      "送り状",
+      "含む"
     ],
     "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "explanation": "'courteous' means '礼儀正しく思いやりのある、親切な'. Example: 'Learning courteous helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 233,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'craven'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "出席する、参列する.",
+      "臆病な、ひきょうな、臆病者",
+      "後援、ひいき、愛顧",
+      "浪費する、ぜいたくな、豊富な"
     ],
-    "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "answer": 1,
+    "explanation": "'craven' means '臆病な、ひきょうな、臆病者'. Example: 'Learning craven helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 234,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'culinary'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "台所の、料理の",
+      "料理のつけ合わせ、飾り物",
+      "記念品、みやげ",
+      "探究する、詮索する"
     ],
     "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "explanation": "'culinary' means '台所の、料理の'. Example: 'Learning culinary helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 235,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'deposit'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "しるし、記念品、しるしとなる",
+      "油断のない、警戒して",
+      "招待する",
+      "預金する、手付金として支払う、預金"
     ],
-    "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "answer": 3,
+    "explanation": "'deposit' means '預金する、手付金として支払う、預金'. Example: 'Learning deposit helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 236,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'distinctive'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "特色のある、特有の",
+      "結果、成り行き、結末",
+      "続行する、移る、進む",
+      "説明する、明らかにする"
     ],
     "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "explanation": "'distinctive' means '特色のある、特有の'. Example: 'Learning distinctive helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 237,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'distinguished'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "迅速に",
+      "すぐれた、著名で、上品な",
+      "解ける、打ち解ける",
+      "手続き、訴訟手続き、"
     ],
-    "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "answer": 1,
+    "explanation": "'distinguished' means 'すぐれた、著名で、上品な'. Example: 'Learning distinguished helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 238,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'drowsiness'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "名声、威信、称賛",
+      "循環、流通、発行部数、売れ行き",
+      "眠気",
+      "風刺の、風刺的な、風刺を好む"
     ],
-    "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "answer": 2,
+    "explanation": "'drowsiness' means '眠気'. Example: 'Learning drowsiness helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 239,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'enthusiasm'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "実際に、本当のところは",
+      "蓄え、備品、蓄える",
+      "巻き込む、伴う、夢中になる",
+      "熱中、熱狂、熱中させるもの"
     ],
-    "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "answer": 3,
+    "explanation": "'enthusiasm' means '熱中、熱狂、熱中させるもの'. Example: 'Learning enthusiasm helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 240,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'entrepreneur'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "侮辱る、無礼な言動をする",
+      "あと知恵",
+      "しるし、記念品、しるしとなる",
+      "起業家、事業家"
     ],
-    "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "answer": 3,
+    "explanation": "'entrepreneur' means '起業家、事業家'. Example: 'Learning entrepreneur helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 241,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'exceptional'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "前進、進める、前進させる、提案する、提示する",
+      "気取った、偉そうな、崇高な",
+      "緯度、自由範囲",
+      "例外的な、異常な、すぐれた"
     ],
-    "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "answer": 3,
+    "explanation": "'exceptional' means '例外的な、異常な、すぐれた'. Example: 'Learning exceptional helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 242,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'exonerate'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "天蓋、天蓋のようにおおうもの、大空",
+      "管理者、長官、部長",
+      "開催地、予定地、場所",
+      "開放する、免除する"
     ],
-    "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "answer": 3,
+    "explanation": "'exonerate' means '開放する、免除する'. Example: 'Learning exonerate helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 243,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'exponentially'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "指数関数的に",
+      "荒れ野、だだっ広い場所",
+      "ボール紙、厚紙",
+      "抵当、担保"
     ],
     "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "explanation": "'exponentially' means '指数関数的に'. Example: 'Learning exponentially helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 244,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'fabulous'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "不良な、荒れ模様の",
+      "天蓋、天蓋のようにおおうもの、大空",
+      "伝説上の、信じられないほどの、すばらしい",
+      "たびたびの、頻繁な"
     ],
-    "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "answer": 2,
+    "explanation": "'fabulous' means '伝説上の、信じられないほどの、すばらしい'. Example: 'Learning fabulous helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 245,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'faculty'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "差し出す、提供する、申し出る",
+      "支出、経費",
+      "排他的な、高級な、独占的な",
+      "能力、機能、学部"
     ],
-    "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "answer": 3,
+    "explanation": "'faculty' means '能力、機能、学部'. Example: 'Learning faculty helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 246,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'former'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "管理、運営、経営、統治、行政",
+      "熱中、熱狂、熱中させるもの",
+      "利用",
+      "前の、以前の、前者"
     ],
-    "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "answer": 3,
+    "explanation": "'former' means '前の、以前の、前者'. Example: 'Learning former helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 247,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'fragile'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "壊れやすい、もろい、はかない",
+      "仕事場",
+      "消費者",
+      "印象的な、人目をひく、堂々とした"
     ],
     "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "explanation": "'fragile' means '壊れやすい、もろい、はかない'. Example: 'Learning fragile helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 248,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'halt'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "風刺画、戯画",
+      "獣医",
+      "立ち止まる、停止する、不完全である",
+      "言及する、ほのめかす"
     ],
-    "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "answer": 2,
+    "explanation": "'halt' means '立ち止まる、停止する、不完全である'. Example: 'Learning halt helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 249,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'hectic'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "料理、料理法",
+      "気が進まない、いやいやながらの",
+      "を展示する、陳列する、提示する，示す",
+      "興奮した、てんてこまいの、消耗熱の"
     ],
-    "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "answer": 3,
+    "explanation": "'hectic' means '興奮した、てんてこまいの、消耗熱の'. Example: 'Learning hectic helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 250,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'implement'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "もっと遠い、そのうえ",
+      "知識を与える、教育的な、有益な",
+      "道具、用具、手段",
+      "取りそこなう、逃す"
     ],
-    "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "answer": 2,
+    "explanation": "'implement' means '道具、用具、手段'. Example: 'Learning implement helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 251,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'inclement'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "暴動、反乱",
+      "不良な、荒れ模様の",
+      "複雑な、入り組んだ",
+      "囲む、周囲の"
     ],
-    "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "answer": 1,
+    "explanation": "'inclement' means '不良な、荒れ模様の'. Example: 'Learning inclement helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 252,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'informative'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "根拠の確実な、有効な、正当な",
+      "知識を与える、教育的な、有益な",
+      "分解検査する、追いついて追い抜く",
+      "アレルギー"
     ],
-    "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "answer": 1,
+    "explanation": "'informative' means '知識を与える、教育的な、有益な'. Example: 'Learning informative helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 253,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'inherit'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "獲得、取得物、利得",
+      "建築家、建築士、設計者、企画者",
+      "うなる、がみがみ言う、とどろく",
+      "受け継ぐ、相続する、遺伝する"
     ],
-    "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "answer": 3,
+    "explanation": "'inherit' means '受け継ぐ、相続する、遺伝する'. Example: 'Learning inherit helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 254,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'initiative'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "設備、才能",
+      "存立できる、実行可能な、生存できる",
+      "注目すべき、顕著な、著しい",
+      "手始め、主導権"
     ],
-    "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "answer": 3,
+    "explanation": "'initiative' means '手始め、主導権'. Example: 'Learning initiative helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 255,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'inn'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "例外的な、異常な、すぐれた",
+      "小旅館、小ホテル、宿屋",
+      "差し出す、提供する、申し出る",
+      "熱心、熱中、熱意"
     ],
-    "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "answer": 1,
+    "explanation": "'inn' means '小旅館、小ホテル、宿屋'. Example: 'Learning inn helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 256,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'incidence'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "発声、発生率、投射",
+      "利用",
+      "はり治療",
+      "製造、製造業、製造する"
     ],
     "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "explanation": "'incidence' means '発声、発生率、投射'. Example: 'Learning incidence helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 257,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'intermission'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "休止、まくあい、休憩時間",
+      "熱心な、熱狂的な、熱中して",
+      "絞る、ねじる、苦しめる",
+      "を展示する、陳列する、提示する，示す"
     ],
     "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "explanation": "'intermission' means '休止、まくあい、休憩時間'. Example: 'Learning intermission helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 258,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'introductory'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "パンフレット、小冊子",
+      "印象的な、人目をひく、堂々とした",
+      "はり治療",
+      "紹介の、前置きの、序説の、入門的な、予備の"
     ],
-    "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "answer": 3,
+    "explanation": "'introductory' means '紹介の、前置きの、序説の、入門的な、予備の'. Example: 'Learning introductory helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 259,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'itinerary'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "一様、均一、画一、一律",
+      "出席する、参列する.",
+      "ゆっくり歩く",
+      "旅行日程表、旅行計画"
     ],
-    "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "answer": 3,
+    "explanation": "'itinerary' means '旅行日程表、旅行計画'. Example: 'Learning itinerary helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 260,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'leading'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "応募者、志願者、申込者、希望者、出願者",
+      "先導する、すぐれた、主要な",
+      "老齢化、老化、熟成",
+      "熱中、熱狂、熱中させるもの"
     ],
-    "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "answer": 1,
+    "explanation": "'leading' means '先導する、すぐれた、主要な'. Example: 'Learning leading helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 261,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'locksmith'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "たびたびの、頻繁な",
+      "能力、機能、学部",
+      "停止、休止、行き詰まり",
+      "錠前師、かぎ屋"
     ],
-    "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "answer": 3,
+    "explanation": "'locksmith' means '錠前師、かぎ屋'. Example: 'Learning locksmith helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 262,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'lure'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "割り当てる、配分する",
+      "前の、以前の、前者",
+      "広告すること、広告",
+      "誘惑するもの、魅惑、ルアー"
     ],
-    "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "answer": 3,
+    "explanation": "'lure' means '誘惑するもの、魅惑、ルアー'. Example: 'Learning lure helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 263,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'malfunction'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "機能不全、故障",
+      "人目を引く特徴、目立った特徴、呼び物",
+      "倉庫、貯蔵所",
+      "買い物客、買い物袋、密告者"
     ],
     "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "explanation": "'malfunction' means '機能不全、故障'. Example: 'Learning malfunction helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 264,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'mortgage'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "抵当、担保",
+      "確認、証明",
+      "盛装する",
+      "食欲不振"
     ],
     "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "explanation": "'mortgage' means '抵当、担保'. Example: 'Learning mortgage helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 265,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'noteworthy'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "気まぐれな、移り気な、急変しがちな",
+      "注目すべき、顕著な、著しい",
+      "外出、出国",
+      "管理、運営、経営、統治、行政"
     ],
-    "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "answer": 1,
+    "explanation": "'noteworthy' means '注目すべき、顕著な、著しい'. Example: 'Learning noteworthy helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 266,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'nursery'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "うなる、がみがみ言う、とどろく",
+      "回収する、取り戻す",
+      "保育園、託児所、養成所",
+      "忙しそうに動く、せわしく働く、にぎわう"
     ],
-    "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "answer": 2,
+    "explanation": "'nursery' means '保育園、託児所、養成所'. Example: 'Learning nursery helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 267,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'outlay'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "支出、経費",
+      "結果、成り行き、結末",
+      "倉庫、貯蔵所",
+      "道具、用具、手段"
     ],
     "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "explanation": "'outlay' means '支出、経費'. Example: 'Learning outlay helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 268,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'overhaul'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "要約された",
+      "分解検査する、追いついて追い抜く",
+      "貪欲な、熱心な、渇望して",
+      "徳、美徳、長所"
     ],
-    "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "answer": 1,
+    "explanation": "'overhaul' means '分解検査する、追いついて追い抜く'. Example: 'Learning overhaul helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 269,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'paralegal'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "気まぐれな、移り気な、急変しがちな",
+      "関係している、重要である、心配させる",
+      "博愛、寛大、報奨金",
+      "パラリーガル、弁護士補助員"
     ],
-    "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "answer": 3,
+    "explanation": "'paralegal' means 'パラリーガル、弁護士補助員'. Example: 'Learning paralegal helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 270,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'patent'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "知る、わかる",
+      "粘板岩、石板、候補者名簿",
+      "特許、特許品",
+      "足場、組み立て舞台"
     ],
-    "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "answer": 2,
+    "explanation": "'patent' means '特許、特許品'. Example: 'Learning patent helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 271,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'patronage'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "今にも倒れそうな、ぐらぐらする、がたがたの",
+      "貪欲な、熱心な、渇望して",
+      "後援、ひいき、愛顧",
+      "要求する、要求、需要"
     ],
-    "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "answer": 2,
+    "explanation": "'patronage' means '後援、ひいき、愛顧'. Example: 'Learning patronage helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 272,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'peer'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "同僚、仲間、貴族",
+      "興奮した、てんてこまいの、消耗熱の",
+      "財産",
+      "分析者、アナリスト"
     ],
     "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "explanation": "'peer' means '同僚、仲間、貴族'. Example: 'Learning peer helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 273,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'physician'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "医師、内科医",
+      "休止、まくあい、休憩時間",
+      "を展示する、陳列する、提示する，示す",
+      "喜んで、楽しそうな"
     ],
     "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "explanation": "'physician' means '医師、内科医'. Example: 'Learning physician helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 274,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'plush'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "苦しめる、悩ます",
+      "代える、取り替える",
+      "料金、謝礼、手数料、入場料",
+      "豪華な、ぜいたくな"
     ],
-    "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "answer": 3,
+    "explanation": "'plush' means '豪華な、ぜいたくな'. Example: 'Learning plush helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 275,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'prescription'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "処方箋、おきて、法規",
+      "パラリーガル、弁護士補助員",
+      "先導する、すぐれた、主要な",
+      "溶接工、溶接機"
     ],
     "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "explanation": "'prescription' means '処方箋、おきて、法規'. Example: 'Learning prescription helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 276,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'proceed'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "含む",
+      "続行する、移る、進む",
+      "支出、経費",
+      "中傷"
     ],
-    "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "answer": 1,
+    "explanation": "'proceed' means '続行する、移る、進む'. Example: 'Learning proceed helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 277,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'proofreader'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "校正係",
+      "健康診断、検査",
+      "風刺の、風刺的な、風刺を好む",
+      "穏やかな、静かな、落ち着いた"
     ],
     "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "explanation": "'proofreader' means '校正係'. Example: 'Learning proofreader helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 278,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'posture'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "食欲をそそるもの、前菜",
+      "何でも食べる、雑食性の、手当たりしだいに読む、乱読する",
+      "利用",
+      "姿勢、状況、態度"
     ],
-    "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "answer": 3,
+    "explanation": "'posture' means '姿勢、状況、態度'. Example: 'Learning posture helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 279,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'query'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "壊れやすい、もろい、はかない",
+      "出現する、ように見える、見受けられる",
+      "建築家、建築士、設計者、企画者",
+      "質問、疑問、疑問符"
     ],
-    "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "answer": 3,
+    "explanation": "'query' means '質問、疑問、疑問符'. Example: 'Learning query helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 280,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'regulate'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "取り締まる、統制する、調整する",
+      "余裕がある、差し支えない",
+      "補足する、助成金の",
+      "感情を害して、不当な扱いを受けた"
     ],
     "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "explanation": "'regulate' means '取り締まる、統制する、調整する'. Example: 'Learning regulate helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 281,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'regimen'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "政府などの予算案、予算、 経費",
+      "昇進させる、促進する、助長する",
+      "摂生、養生法",
+      "大失敗"
     ],
-    "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "answer": 2,
+    "explanation": "'regimen' means '摂生、養生法'. Example: 'Learning regimen helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 282,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'resume'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "再び始める、回復する",
+      "複雑な、入り組んだ",
+      "名声、威信、称賛",
+      "特派員、一致する"
     ],
     "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "explanation": "'resume' means '再び始める、回復する'. Example: 'Learning resume helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 283,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'revenue'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "歳入、総収入、税務局",
+      "思索する、推測をする",
+      "送り状",
+      "行為、経営、指揮する、案内する、行う"
     ],
     "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "explanation": "'revenue' means '歳入、総収入、税務局'. Example: 'Learning revenue helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 284,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'seasoned'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "複雑な、入り組んだ",
+      "味つけした、調味した、経験豊かな",
+      "尋ねる、調べる、問い合わせる",
+      "取り締まる、統制する、調整する"
     ],
-    "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "answer": 1,
+    "explanation": "'seasoned' means '味つけした、調味した、経験豊かな'. Example: 'Learning seasoned helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 285,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'skyrocket'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "打ち上げ花火、急騰する",
+      "仕事場",
+      "保存、維持、保管",
+      "永続性のある、長持ちする、丈夫な"
     ],
     "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "explanation": "'skyrocket' means '打ち上げ花火、急騰する'. Example: 'Learning skyrocket helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 286,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'spare'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "前進、進める、前進させる、提案する、提示する",
+      "惜しんで使わない、節約する、労を惜しむ",
+      "器具、装置、設備、電気製品",
+      "出現する、ように見える、見受けられる"
     ],
-    "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "answer": 1,
+    "explanation": "'spare' means '惜しんで使わない、節約する、労を惜しむ'. Example: 'Learning spare helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 287,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'stagnant'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "ぼろぼろの、ぼろを着た",
+      "抵抗する、逆らう、我慢する",
+      "流れない、よどんでいる、停滞した、不活発な、不景気な",
+      "比較する、対照する"
     ],
-    "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "answer": 2,
+    "explanation": "'stagnant' means '流れない、よどんでいる、停滞した、不活発な、不景気な'. Example: 'Learning stagnant helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 288,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'stunning'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "つける、宣言する、入札",
+      "博愛、寛大、報奨金",
+      "適切に、ふさわしく",
+      "気絶させる、耳を聞こえなくする、すてきな"
     ],
-    "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "answer": 3,
+    "explanation": "'stunning' means '気絶させる、耳を聞こえなくする、すてきな'. Example: 'Learning stunning helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 289,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'surgical'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "外科の、整形用の",
+      "投資する",
+      "ぞっとするほど嫌う",
+      "大混乱、地獄"
     ],
     "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "explanation": "'surgical' means '外科の、整形用の'. Example: 'Learning surgical helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 290,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'tidy'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "予期する、期待する",
+      "用具、家庭用品",
+      "預金する、手付金として支払う、預金",
+      "きちんとした、整然とした、かなりの"
     ],
-    "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "answer": 3,
+    "explanation": "'tidy' means 'きちんとした、整然とした、かなりの'. Example: 'Learning tidy helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 291,
-    "question": "What is the meaning of 'approve'?",
+    "question": "What is the meaning of 'trim'?",
     "choices": [
-      "承認する",
-      "否定する",
-      "削除する",
-      "延期する"
+      "激怒、憤り",
+      "刈り込んで整える、手入れする、飾りをつける、調節する",
+      "害虫、人間のくず、やくざ",
+      "眠気"
     ],
-    "answer": 0,
-    "explanation": "'Approve' means '承認する'. Example: 'The manager approved the new budget.'"
+    "answer": 1,
+    "explanation": "'trim' means '刈り込んで整える、手入れする、飾りをつける、調節する'. Example: 'Learning trim helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 292,
-    "question": "What is the meaning of 'budget'?",
+    "question": "What is the meaning of 'typo'?",
     "choices": [
-      "予算",
-      "計画",
-      "契約",
-      "費用"
+      "倉庫、貯蔵所",
+      "比較する、対照する",
+      "誤植",
+      "開催地、予定地、場所"
     ],
-    "answer": 0,
-    "explanation": "'Budget' means '予算'. Example: 'The company has a limited budget for advertising.'"
+    "answer": 2,
+    "explanation": "'typo' means '誤植'. Example: 'Learning typo helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 293,
-    "question": "What is the meaning of 'candidate'?",
+    "question": "What is the meaning of 'unwilling'?",
     "choices": [
-      "候補者",
-      "社員",
-      "顧客",
-      "請負業者"
+      "気が進まない、いやいやながらの",
+      "提供する、与える、供給する",
+      "特派員、一致する",
+      "あっと言わせるほど"
     ],
     "answer": 0,
-    "explanation": "'Candidate' means '候補者'. Example: 'She is the best candidate for the position.'"
+    "explanation": "'unwilling' means '気が進まない、いやいやながらの'. Example: 'Learning unwilling helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 294,
-    "question": "What is the meaning of 'complaint'?",
+    "question": "What is the meaning of 'valuable'?",
     "choices": [
-      "苦情",
-      "契約",
-      "満足",
-      "賛成"
+      "構成している、成分の",
+      "穏やかな、静かな、落ち着いた",
+      "捨てる、処分する",
+      "高価な、大切な"
     ],
-    "answer": 0,
-    "explanation": "'Complaint' means '苦情'. Example: 'The company received several customer complaints.'"
+    "answer": 3,
+    "explanation": "'valuable' means '高価な、大切な'. Example: 'Learning valuable helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 295,
-    "question": "What is the meaning of 'conference'?",
+    "question": "What is the meaning of 'verification'?",
     "choices": [
-      "会議",
-      "契約",
-      "対策",
-      "報告"
+      "失敗する、しそこなう",
+      "激怒、憤り",
+      "確認、証明",
+      "複雑な、入り組んだ"
     ],
-    "answer": 0,
-    "explanation": "'Conference' means '会議'. Example: 'The international conference will be held in Tokyo.'"
+    "answer": 2,
+    "explanation": "'verification' means '確認、証明'. Example: 'Learning verification helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 296,
-    "question": "What is the meaning of 'contract'?",
+    "question": "What is the meaning of 'veterinarian'?",
     "choices": [
-      "契約",
-      "要約",
-      "計画",
-      "投資"
+      "尋ねる、調べる、問い合わせる",
+      "機能不全、故障",
+      "獣医",
+      "食欲不振"
     ],
-    "answer": 0,
-    "explanation": "'Contract' means '契約'. Example: 'The company signed a new contract with a supplier.'"
+    "answer": 2,
+    "explanation": "'veterinarian' means '獣医'. Example: 'Learning veterinarian helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 297,
-    "question": "What is the meaning of 'customer'?",
+    "question": "What is the meaning of 'waive'?",
     "choices": [
-      "顧客",
-      "従業員",
-      "供給者",
-      "投資家"
+      "機能不全、故障",
+      "倉庫、貯蔵所",
+      "招待する",
+      "放棄する、差し控える、先延ばしする"
     ],
-    "answer": 0,
-    "explanation": "'Customer' means '顧客'. Example: 'Providing good service is important for customer satisfaction.'"
+    "answer": 3,
+    "explanation": "'waive' means '放棄する、差し控える、先延ばしする'. Example: 'Learning waive helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 298,
-    "question": "What is the meaning of 'delivery'?",
+    "question": "What is the meaning of 'welder'?",
     "choices": [
-      "配達",
-      "契約",
-      "支払い",
-      "宣伝"
+      "外出、出国",
+      "分解検査する、追いついて追い抜く",
+      "禁止、禁止令、禁止する",
+      "溶接工、溶接機"
     ],
-    "answer": 0,
-    "explanation": "'Delivery' means '配達'. Example: 'The delivery will arrive by Friday.'"
+    "answer": 3,
+    "explanation": "'welder' means '溶接工、溶接機'. Example: 'Learning welder helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 299,
-    "question": "What is the meaning of 'department'?",
+    "question": "What is the meaning of 'wildlife'?",
     "choices": [
-      "部門",
-      "契約",
-      "会議",
-      "供給"
+      "消す、失わせる",
+      "ゆっくり歩く",
+      "バイパス、側管",
+      "野生生物"
     ],
-    "answer": 0,
-    "explanation": "'Department' means '部門'. Example: 'She works in the marketing department.'"
+    "answer": 3,
+    "explanation": "'wildlife' means '野生生物'. Example: 'Learning wildlife helps improve your TOEIC vocabulary.'"
   },
   {
     "id": 300,
-    "question": "What is the meaning of 'discount'?",
+    "question": "What is the meaning of 'wring'?",
     "choices": [
-      "割引",
-      "投資",
-      "納品",
-      "契約"
+      "知る、わかる",
+      "杯、聖杯",
+      "絞る、ねじる、苦しめる",
+      "起業家、事業家"
+    ],
+    "answer": 2,
+    "explanation": "'wring' means '絞る、ねじる、苦しめる'. Example: 'Learning wring helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 301,
+    "question": "What is the meaning of 'abash'?",
+    "choices": [
+      "補足する、助成金の",
+      "料理のつけ合わせ、飾り物",
+      "恥じ入らす、当惑させる",
+      "風刺画、戯画"
+    ],
+    "answer": 2,
+    "explanation": "'abash' means '恥じ入らす、当惑させる'. Example: 'Learning abash helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 302,
+    "question": "What is the meaning of 'abhor'?",
+    "choices": [
+      "旅行かばん類、手荷物",
+      "料理、料理法",
+      "ぞっとするほど嫌う",
+      "押し上げ、後援、増大"
+    ],
+    "answer": 2,
+    "explanation": "'abhor' means 'ぞっとするほど嫌う'. Example: 'Learning abhor helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 303,
+    "question": "What is the meaning of 'abide'?",
+    "choices": [
+      "野生生物",
+      "我慢する",
+      "合意して、満場一致の",
+      "利用"
+    ],
+    "answer": 1,
+    "explanation": "'abide' means '我慢する'. Example: 'Learning abide helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 304,
+    "question": "What is the meaning of 'abysmal'?",
+    "choices": [
+      "深いふちの、底の知れない、ひどく悪い",
+      "要約された",
+      "今にも倒れそうな、ぐらぐらする、がたがたの",
+      "以前の、前の、先の"
     ],
     "answer": 0,
-    "explanation": "'Discount' means '割引'. Example: 'The store offers a 10% discount on all items.'"
+    "explanation": "'abysmal' means '深いふちの、底の知れない、ひどく悪い'. Example: 'Learning abysmal helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 305,
+    "question": "What is the meaning of 'acupuncture'?",
+    "choices": [
+      "はり治療",
+      "あと知恵",
+      "健康診断、検査",
+      "行為、経営、指揮する、案内する、行う"
+    ],
+    "answer": 0,
+    "explanation": "'acupuncture' means 'はり治療'. Example: 'Learning acupuncture helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 306,
+    "question": "What is the meaning of 'adjourn'?",
+    "choices": [
+      "延期する、延会する",
+      "人目を引く特徴、目立った特徴、呼び物",
+      "教授、授業料、月謝",
+      "永続性のある、長持ちする、丈夫な"
+    ],
+    "answer": 0,
+    "explanation": "'adjourn' means '延期する、延会する'. Example: 'Learning adjourn helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 307,
+    "question": "What is the meaning of 'afflict'?",
+    "choices": [
+      "福祉、福祉事業、生活保護",
+      "利用",
+      "印象的な、人目をひく、堂々とした",
+      "苦しめる、悩ます"
+    ],
+    "answer": 3,
+    "explanation": "'afflict' means '苦しめる、悩ます'. Example: 'Learning afflict helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 308,
+    "question": "What is the meaning of 'affront'?",
+    "choices": [
+      "特派員、一致する",
+      "予約",
+      "風刺の、風刺的な、風刺を好む",
+      "侮辱る、無礼な言動をする"
+    ],
+    "answer": 3,
+    "explanation": "'affront' means '侮辱る、無礼な言動をする'. Example: 'Learning affront helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 309,
+    "question": "What is the meaning of 'aggrieved'?",
+    "choices": [
+      "福祉、福祉事業、生活保護",
+      "熱中、熱狂、熱中させるもの",
+      "抵当、担保",
+      "感情を害して、不当な扱いを受けた"
+    ],
+    "answer": 3,
+    "explanation": "'aggrieved' means '感情を害して、不当な扱いを受けた'. Example: 'Learning aggrieved helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 310,
+    "question": "What is the meaning of 'algae'?",
+    "choices": [
+      "藻類",
+      "感情を害して、不当な扱いを受けた",
+      "味つけした、調味した、経験豊かな",
+      "複雑な、入り組んだ"
+    ],
+    "answer": 0,
+    "explanation": "'algae' means '藻類'. Example: 'Learning algae helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 311,
+    "question": "What is the meaning of 'allude'?",
+    "choices": [
+      "結果、成り行き、結末",
+      "熱烈な、熱中して",
+      "気まぐれな、移り気な、急変しがちな",
+      "言及する、ほのめかす"
+    ],
+    "answer": 3,
+    "explanation": "'allude' means '言及する、ほのめかす'. Example: 'Learning allude helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 312,
+    "question": "What is the meaning of 'amble'?",
+    "choices": [
+      "記憶を助ける、記憶術の",
+      "ゆっくり歩く",
+      "熱心、熱中、熱意",
+      "を勧める、奨励する"
+    ],
+    "answer": 1,
+    "explanation": "'amble' means 'ゆっくり歩く'. Example: 'Learning amble helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 313,
+    "question": "What is the meaning of 'annihilate'?",
+    "choices": [
+      "誘惑するもの、魅惑、ルアー",
+      "全滅させる、完敗させる、圧倒する",
+      "つける、宣言する、入札",
+      "分析者、アナリスト"
+    ],
+    "answer": 1,
+    "explanation": "'annihilate' means '全滅させる、完敗させる、圧倒する'. Example: 'Learning annihilate helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 314,
+    "question": "What is the meaning of 'anorexia'?",
+    "choices": [
+      "燃えるような、けばけばしい",
+      "仕事場",
+      "補足、付録、追加する",
+      "食欲不振"
+    ],
+    "answer": 3,
+    "explanation": "'anorexia' means '食欲不振'. Example: 'Learning anorexia helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 315,
+    "question": "What is the meaning of 'bleak'?",
+    "choices": [
+      "眠気",
+      "寒い、荒れた、寂しい、厳しい",
+      "容疑、疑い、いぶかり、気づくこと",
+      "ほめる、推薦する、ゆだねる"
+    ],
+    "answer": 1,
+    "explanation": "'bleak' means '寒い、荒れた、寂しい、厳しい'. Example: 'Learning bleak helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 316,
+    "question": "What is the meaning of 'blunder'?",
+    "choices": [
+      "福祉、福祉事業、生活保護",
+      "まごまごして歩く、つまずく",
+      "食欲をそそるもの、前菜",
+      "ぼうっとなった、のぼせあがった、夢中になって"
+    ],
+    "answer": 1,
+    "explanation": "'blunder' means 'まごまごして歩く、つまずく'. Example: 'Learning blunder helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 317,
+    "question": "What is the meaning of 'bounty'?",
+    "choices": [
+      "博愛、寛大、報奨金",
+      "巻き込む、伴う、夢中になる",
+      "弁済する、償還する、請け出す、取り返す",
+      "獣医"
+    ],
+    "answer": 0,
+    "explanation": "'bounty' means '博愛、寛大、報奨金'. Example: 'Learning bounty helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 318,
+    "question": "What is the meaning of 'brass'?",
+    "choices": [
+      "真ちゅう、金管楽器",
+      "病的飢餓、大食症",
+      "管理者、長官、部長",
+      "くじ引き、運"
+    ],
+    "answer": 0,
+    "explanation": "'brass' means '真ちゅう、金管楽器'. Example: 'Learning brass helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 319,
+    "question": "What is the meaning of 'bulimia'?",
+    "choices": [
+      "図形、形、装飾、数字",
+      "起業家、事業家",
+      "病的飢餓、大食症",
+      "取りそこなう、逃す"
+    ],
+    "answer": 2,
+    "explanation": "'bulimia' means '病的飢餓、大食症'. Example: 'Learning bulimia helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 320,
+    "question": "What is the meaning of 'burgeoning'?",
+    "choices": [
+      "芽、 若枝",
+      "同僚、仲間、貴族",
+      "油断のない、警戒して",
+      "装う、ふりをする"
+    ],
+    "answer": 0,
+    "explanation": "'burgeoning' means '芽、 若枝'. Example: 'Learning burgeoning helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 321,
+    "question": "What is the meaning of 'bustle'?",
+    "choices": [
+      "忙しそうに動く、せわしく働く、にぎわう",
+      "厳しい、質素な",
+      "荒れ果てた、見る影もない、みじめな、わびしい",
+      "余裕がある、差し支えない"
+    ],
+    "answer": 0,
+    "explanation": "'bustle' means '忙しそうに動く、せわしく働く、にぎわう'. Example: 'Learning bustle helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 322,
+    "question": "What is the meaning of 'canopy'?",
+    "choices": [
+      "ほめる、推薦する、ゆだねる",
+      "余裕がある、差し支えない",
+      "抵抗する、逆らう、我慢する",
+      "天蓋、天蓋のようにおおうもの、大空"
+    ],
+    "answer": 3,
+    "explanation": "'canopy' means '天蓋、天蓋のようにおおうもの、大空'. Example: 'Learning canopy helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 323,
+    "question": "What is the meaning of 'capricious'?",
+    "choices": [
+      "気まぐれな、移り気な、急変しがちな",
+      "分解検査する、追いついて追い抜く",
+      "適格で、望ましくて",
+      "かき乱す、混乱させる、不安にさせる"
+    ],
+    "answer": 0,
+    "explanation": "'capricious' means '気まぐれな、移り気な、急変しがちな'. Example: 'Learning capricious helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 324,
+    "question": "What is the meaning of 'caricature'?",
+    "choices": [
+      "すぐれた、著名で、上品な",
+      "無念、悔しさ",
+      "指数関数的に",
+      "風刺画、戯画"
+    ],
+    "answer": 3,
+    "explanation": "'caricature' means '風刺画、戯画'. Example: 'Learning caricature helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 325,
+    "question": "What is the meaning of 'chagrin'?",
+    "choices": [
+      "船積み、輸送、発送",
+      "寒い、荒れた、寂しい、厳しい",
+      "大失敗",
+      "無念、悔しさ"
+    ],
+    "answer": 3,
+    "explanation": "'chagrin' means '無念、悔しさ'. Example: 'Learning chagrin helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 326,
+    "question": "What is the meaning of 'chalice'?",
+    "choices": [
+      "杯、聖杯",
+      "雨雲、後光、輝かしい雰囲気",
+      "売場、省、部、局",
+      "製造、製造業、製造する"
+    ],
+    "answer": 0,
+    "explanation": "'chalice' means '杯、聖杯'. Example: 'Learning chalice helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 327,
+    "question": "What is the meaning of 'decease'?",
+    "choices": [
+      "協議事項、議事日程、予定表",
+      "死亡",
+      "折りたたみ広告、刷り物、ハンドアウト、施し物",
+      "教授、授業料、月謝"
+    ],
+    "answer": 1,
+    "explanation": "'decease' means '死亡'. Example: 'Learning decease helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 328,
+    "question": "What is the meaning of 'deciduous'?",
+    "choices": [
+      "雨雲、後光、輝かしい雰囲気",
+      "風刺画、戯画",
+      "落葉性の、落ちる、はかない、一時的な",
+      "隠者、世捨て人"
+    ],
+    "answer": 2,
+    "explanation": "'deciduous' means '落葉性の、落ちる、はかない、一時的な'. Example: 'Learning deciduous helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 329,
+    "question": "What is the meaning of 'defamation'?",
+    "choices": [
+      "あと知恵",
+      "確認、証明",
+      "錠前師、かぎ屋",
+      "中傷"
+    ],
+    "answer": 3,
+    "explanation": "'defamation' means '中傷'. Example: 'Learning defamation helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 330,
+    "question": "What is the meaning of 'default'?",
+    "choices": [
+      "不履行、怠慢、債務不履行、棄権",
+      "ぼうっとなった、のぼせあがった、夢中になって",
+      "押し上げ、後援、増大",
+      "同僚"
+    ],
+    "answer": 0,
+    "explanation": "'default' means '不履行、怠慢、債務不履行、棄権'. Example: 'Learning default helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 331,
+    "question": "What is the meaning of 'delve'?",
+    "choices": [
+      "博愛、寛大、報奨金",
+      "消す、失わせる",
+      "獲得、取得物、利得",
+      "探究する、詮索する"
+    ],
+    "answer": 3,
+    "explanation": "'delve' means '探究する、詮索する'. Example: 'Learning delve helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 332,
+    "question": "What is the meaning of 'desolate'?",
+    "choices": [
+      "再び始める、回復する",
+      "荒れ果てた、見る影もない、みじめな、わびしい",
+      "保証された、公認の",
+      "粘板岩、石板、候補者名簿"
+    ],
+    "answer": 1,
+    "explanation": "'desolate' means '荒れ果てた、見る影もない、みじめな、わびしい'. Example: 'Learning desolate helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 333,
+    "question": "What is the meaning of 'engrossed'?",
+    "choices": [
+      "禁止、禁止令、禁止する",
+      "熱中した、夢中になった、熱中して",
+      "指名する",
+      "存立できる、実行可能な、生存できる"
+    ],
+    "answer": 1,
+    "explanation": "'engrossed' means '熱中した、夢中になった、熱中して'. Example: 'Learning engrossed helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 334,
+    "question": "What is the meaning of 'entail'?",
+    "choices": [
+      "いっぱい食わせる、かつぐ、かついでさせる",
+      "料金、謝礼、手数料、入場料",
+      "世間の注目、宣伝、広告",
+      "必然的に伴う、相続人を限定して譲る"
+    ],
+    "answer": 3,
+    "explanation": "'entail' means '必然的に伴う、相続人を限定して譲る'. Example: 'Learning entail helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 335,
+    "question": "What is the meaning of 'envisage'?",
+    "choices": [
+      "初心者、駆け出しの",
+      "心に描く、想像する",
+      "適切に、ふさわしく",
+      "支出、経費"
+    ],
+    "answer": 1,
+    "explanation": "'envisage' means '心に描く、想像する'. Example: 'Learning envisage helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 336,
+    "question": "What is the meaning of 'excrete'?",
+    "choices": [
+      "協議事項、議事日程、予定表",
+      "排泄する",
+      "関税、運賃表、料金表",
+      "比較する、対照する"
+    ],
+    "answer": 1,
+    "explanation": "'excrete' means '排泄する'. Example: 'Learning excrete helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 337,
+    "question": "What is the meaning of 'exodus'?",
+    "choices": [
+      "付加的な，追加の",
+      "提供する、与える、供給する",
+      "ばつの悪い、やっかいな",
+      "外出、出国"
+    ],
+    "answer": 3,
+    "explanation": "'exodus' means '外出、出国'. Example: 'Learning exodus helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 338,
+    "question": "What is the meaning of 'feign'?",
+    "choices": [
+      "陶器製造、焼き物、窯元",
+      "摂生、養生法",
+      "買い物客、買い物袋、密告者",
+      "装う、ふりをする"
+    ],
+    "answer": 3,
+    "explanation": "'feign' means '装う、ふりをする'. Example: 'Learning feign helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 339,
+    "question": "What is the meaning of 'fiasco'?",
+    "choices": [
+      "専門的技術、ノウハウ",
+      "囲む、周囲の",
+      "大失敗",
+      "すばらしい、堂々とした、壮麗な"
+    ],
+    "answer": 2,
+    "explanation": "'fiasco' means '大失敗'. Example: 'Learning fiasco helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 340,
+    "question": "What is the meaning of 'flamboyant'?",
+    "choices": [
+      "燃えるような、けばけばしい",
+      "買い物客、買い物袋、密告者",
+      "招待する",
+      "もっと遠い、そのうえ"
+    ],
+    "answer": 0,
+    "explanation": "'flamboyant' means '燃えるような、けばけばしい'. Example: 'Learning flamboyant helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 341,
+    "question": "What is the meaning of 'fleet'?",
+    "choices": [
+      "艦隊、船団、全車両",
+      "満足を与える、心地よい",
+      "排泄する",
+      "財産"
+    ],
+    "answer": 0,
+    "explanation": "'fleet' means '艦隊、船団、全車両'. Example: 'Learning fleet helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 342,
+    "question": "What is the meaning of 'flunk'?",
+    "choices": [
+      "完成した、既成の、熟練した",
+      "ほめる、推薦する、ゆだねる",
+      "しくじる、失敗する、落第させる",
+      "行商人、売り主"
+    ],
+    "answer": 2,
+    "explanation": "'flunk' means 'しくじる、失敗する、落第させる'. Example: 'Learning flunk helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 343,
+    "question": "What is the meaning of 'forbear'?",
+    "choices": [
+      "控える、我慢する、抑える",
+      "穏やかな、静かな、落ち着いた",
+      "旅行かばん類、手荷物",
+      "暴動、反乱"
+    ],
+    "answer": 0,
+    "explanation": "'forbear' means '控える、我慢する、抑える'. Example: 'Learning forbear helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 344,
+    "question": "What is the meaning of 'garnish'?",
+    "choices": [
+      "病的飢餓、大食症",
+      "料理のつけ合わせ、飾り物",
+      "責任がある",
+      "名声、威信、称賛"
+    ],
+    "answer": 1,
+    "explanation": "'garnish' means '料理のつけ合わせ、飾り物'. Example: 'Learning garnish helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 345,
+    "question": "What is the meaning of 'grandiose'?",
+    "choices": [
+      "食欲不振",
+      "気取った、偉そうな、崇高な",
+      "いっぱい食わせる、かつぐ、かついでさせる",
+      "おおよそ、ほぼ"
+    ],
+    "answer": 1,
+    "explanation": "'grandiose' means '気取った、偉そうな、崇高な'. Example: 'Learning grandiose helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 346,
+    "question": "What is the meaning of 'gratifying'?",
+    "choices": [
+      "味のよい、塩のきいた、辛みのある、おもしろみのある",
+      "空っぽの、空いている、使用されていない",
+      "利用",
+      "満足を与える、心地よい"
+    ],
+    "answer": 3,
+    "explanation": "'gratifying' means '満足を与える、心地よい'. Example: 'Learning gratifying helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 347,
+    "question": "What is the meaning of 'graze'?",
+    "choices": [
+      "深いふちの、底の知れない、ひどく悪い",
+      "不適当な、適性がなくて",
+      "進む，続行する",
+      "草を食う、軽く食べる、間食をする"
+    ],
+    "answer": 3,
+    "explanation": "'graze' means '草を食う、軽く食べる、間食をする'. Example: 'Learning graze helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 348,
+    "question": "What is the meaning of 'growl'?",
+    "choices": [
+      "面、様相、顔つき",
+      "あと知恵",
+      "薄霧、もや",
+      "うなる、がみがみ言う、とどろく"
+    ],
+    "answer": 3,
+    "explanation": "'growl' means 'うなる、がみがみ言う、とどろく'. Example: 'Learning growl helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 349,
+    "question": "What is the meaning of 'haughty'?",
+    "choices": [
+      "ごうまんな、横柄な",
+      "知識を与える、教育的な、有益な",
+      "政府などの予算案、予算、 経費",
+      "決定する、決心する"
+    ],
+    "answer": 0,
+    "explanation": "'haughty' means 'ごうまんな、横柄な'. Example: 'Learning haughty helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 350,
+    "question": "What is the meaning of 'haze'?",
+    "choices": [
+      "薄霧、もや",
+      "思い出させる、気づかせる",
+      "指名する、選定する、任じる、名づける",
+      "すぐれた、著名で、上品な"
+    ],
+    "answer": 0,
+    "explanation": "'haze' means '薄霧、もや'. Example: 'Learning haze helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 351,
+    "question": "What is the meaning of 'hermit'?",
+    "choices": [
+      "贈与する、寄贈する",
+      "味つけした、調味した、経験豊かな",
+      "手押し一輪車",
+      "隠者、世捨て人"
+    ],
+    "answer": 3,
+    "explanation": "'hermit' means '隠者、世捨て人'. Example: 'Learning hermit helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 352,
+    "question": "What is the meaning of 'hindsight'?",
+    "choices": [
+      "比較する、対照する",
+      "取り締まる、統制する、調整する",
+      "あと知恵",
+      "発掘する、明るみに出す"
+    ],
+    "answer": 2,
+    "explanation": "'hindsight' means 'あと知恵'. Example: 'Learning hindsight helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 353,
+    "question": "What is the meaning of 'hinge'?",
+    "choices": [
+      "熱中、熱狂、熱中させるもの",
+      "大きさ、積み荷、かさばる",
+      "思索する、推測をする",
+      "ちょうつがい、かなめ、要点"
+    ],
+    "answer": 3,
+    "explanation": "'hinge' means 'ちょうつがい、かなめ、要点'. Example: 'Learning hinge helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 354,
+    "question": "What is the meaning of 'hoax'?",
+    "choices": [
+      "ぼうっとなった、のぼせあがった、夢中になって",
+      "いっぱい食わせる、かつぐ、かついでさせる",
+      "燃えるような、けばけばしい",
+      "産む、出産する"
+    ],
+    "answer": 1,
+    "explanation": "'hoax' means 'いっぱい食わせる、かつぐ、かついでさせる'. Example: 'Learning hoax helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 355,
+    "question": "What is the meaning of 'ignoble'?",
+    "choices": [
+      "延期する、延会する",
+      "折りたたみ広告、刷り物、ハンドアウト、施し物",
+      "下劣な、下品な、不名誉な、恥ずべき、身分の卑しい",
+      "紹介の、前置きの、序説の、入門的な、予備の"
+    ],
+    "answer": 2,
+    "explanation": "'ignoble' means '下劣な、下品な、不名誉な、恥ずべき、身分の卑しい'. Example: 'Learning ignoble helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 356,
+    "question": "What is the meaning of 'imposing'?",
+    "choices": [
+      "印象的な、人目をひく、堂々とした",
+      "弁済する、償還する、請け出す、取り返す",
+      "特許、特許品",
+      "味のよい、塩のきいた、辛みのある、おもしろみのある"
+    ],
+    "answer": 0,
+    "explanation": "'imposing' means '印象的な、人目をひく、堂々とした'. Example: 'Learning imposing helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 357,
+    "question": "What is the meaning of 'inept'?",
+    "choices": [
+      "買い物客、買い物袋、密告者",
+      "外出、出国",
+      "不適当な、適性がなくて",
+      "苦しめる、悩ます"
+    ],
+    "answer": 2,
+    "explanation": "'inept' means '不適当な、適性がなくて'. Example: 'Learning inept helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 358,
+    "question": "What is the meaning of 'infatuated'?",
+    "choices": [
+      "アレルギー",
+      "ぼうっとなった、のぼせあがった、夢中になって",
+      "手押し一輪車",
+      "熱烈な、熱中して"
+    ],
+    "answer": 1,
+    "explanation": "'infatuated' means 'ぼうっとなった、のぼせあがった、夢中になって'. Example: 'Learning infatuated helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 359,
+    "question": "What is the meaning of 'insurrection'?",
+    "choices": [
+      "外科の、整形用の",
+      "暴動、反乱",
+      "いっぱい食わせる、かつぐ、かついでさせる",
+      "苦しめる、悩ます"
+    ],
+    "answer": 1,
+    "explanation": "'insurrection' means '暴動、反乱'. Example: 'Learning insurrection helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 360,
+    "question": "What is the meaning of 'juxtapose'?",
+    "choices": [
+      "直立した、正しい",
+      "並べる、並列する",
+      "進む，続行する",
+      "避ける"
+    ],
+    "answer": 1,
+    "explanation": "'juxtapose' means '並べる、並列する'. Example: 'Learning juxtapose helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 361,
+    "question": "What is the meaning of 'kudos'?",
+    "choices": [
+      "特色のある、特有の",
+      "伝説上の、信じられないほどの、すばらしい",
+      "参考、参考文献、証明書",
+      "名声、威信、称賛"
+    ],
+    "answer": 3,
+    "explanation": "'kudos' means '名声、威信、称賛'. Example: 'Learning kudos helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 362,
+    "question": "What is the meaning of 'latch'?",
+    "choices": [
+      "契約、協定、契約書",
+      "出現する、ように見える、見受けられる",
+      "ドア・門などの掛け金",
+      "不足、欠乏"
+    ],
+    "answer": 2,
+    "explanation": "'latch' means 'ドア・門などの掛け金'. Example: 'Learning latch helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 363,
+    "question": "What is the meaning of 'latitude'?",
+    "choices": [
+      "ひどい、厳しい",
+      "預金する、手付金として支払う、預金",
+      "緯度、自由範囲",
+      "惜しんで使わない、節約する、労を惜しむ"
+    ],
+    "answer": 2,
+    "explanation": "'latitude' means '緯度、自由範囲'. Example: 'Learning latitude helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 364,
+    "question": "What is the meaning of 'mar'?",
+    "choices": [
+      "比較する、対照する",
+      "超過する、越える",
+      "ひどく傷つける、そこなう、台なしにする",
+      "ニルバーナ、解脱の境地"
+    ],
+    "answer": 2,
+    "explanation": "'mar' means 'ひどく傷つける、そこなう、台なしにする'. Example: 'Learning mar helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 365,
+    "question": "What is the meaning of 'mnemonic'?",
+    "choices": [
+      "料理、料理法",
+      "打ち上げ花火、急騰する",
+      "まごまごして歩く、つまずく",
+      "記憶を助ける、記憶術の"
+    ],
+    "answer": 3,
+    "explanation": "'mnemonic' means '記憶を助ける、記憶術の'. Example: 'Learning mnemonic helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 366,
+    "question": "What is the meaning of 'morbid'?",
+    "choices": [
+      "用具、家庭用品",
+      "病的な、憂うつな、陰気な、病気に起因する",
+      "尋ねる、調べる、問い合わせる",
+      "ハンドル、取っ手、扱う、処理する"
+    ],
+    "answer": 1,
+    "explanation": "'morbid' means '病的な、憂うつな、陰気な、病気に起因する'. Example: 'Learning morbid helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 367,
+    "question": "What is the meaning of 'nimbus'?",
+    "choices": [
+      "受け継ぐ、相続する、遺伝する",
+      "尋ねる、調べる、問い合わせる",
+      "記念品、みやげ",
+      "雨雲、後光、輝かしい雰囲気"
+    ],
+    "answer": 3,
+    "explanation": "'nimbus' means '雨雲、後光、輝かしい雰囲気'. Example: 'Learning nimbus helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 368,
+    "question": "What is the meaning of 'nirvana'?",
+    "choices": [
+      "特色のある、特有の",
+      "盛装する",
+      "ぞっとするほど嫌う",
+      "ニルバーナ、解脱の境地"
+    ],
+    "answer": 3,
+    "explanation": "'nirvana' means 'ニルバーナ、解脱の境地'. Example: 'Learning nirvana helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 369,
+    "question": "What is the meaning of 'obliterate'?",
+    "choices": [
+      "適切に、ふさわしく",
+      "高価な、大切な",
+      "消してしまう、抹消する",
+      "払い戻す、返金する"
+    ],
+    "answer": 2,
+    "explanation": "'obliterate' means '消してしまう、抹消する'. Example: 'Learning obliterate helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 370,
+    "question": "What is the meaning of 'omnivorous'?",
+    "choices": [
+      "受け継ぐ、相続する、遺伝する",
+      "吐く",
+      "何でも食べる、雑食性の、手当たりしだいに読む、乱読する",
+      "払い戻す、弁済する、返済する"
+    ],
+    "answer": 2,
+    "explanation": "'omnivorous' means '何でも食べる、雑食性の、手当たりしだいに読む、乱読する'. Example: 'Learning omnivorous helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 371,
+    "question": "What is the meaning of 'optical'?",
+    "choices": [
+      "目の、視覚の、光学上の",
+      "吐く",
+      "貪欲な、熱心な、渇望して",
+      "協議事項、議事日程、予定表"
+    ],
+    "answer": 0,
+    "explanation": "'optical' means '目の、視覚の、光学上の'. Example: 'Learning optical helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 372,
+    "question": "What is the meaning of 'outlandish'?",
+    "choices": [
+      "製造、製造業、製造する",
+      "よく知っている、なじみの、ありふれた、どこにでもある",
+      "雨雲、後光、輝かしい雰囲気",
+      "風変わりな、奇異な、奇妙な"
+    ],
+    "answer": 3,
+    "explanation": "'outlandish' means '風変わりな、奇異な、奇妙な'. Example: 'Learning outlandish helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 373,
+    "question": "What is the meaning of 'pandemonium'?",
+    "choices": [
+      "害虫、人間のくず、やくざ",
+      "排泄する",
+      "贈与する、寄贈する",
+      "大混乱、地獄"
+    ],
+    "answer": 3,
+    "explanation": "'pandemonium' means '大混乱、地獄'. Example: 'Learning pandemonium helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 374,
+    "question": "What is the meaning of 'perturb'?",
+    "choices": [
+      "全滅させる、完敗させる、圧倒する",
+      "機能不全、故障",
+      "粘板岩、石板、候補者名簿",
+      "かき乱す、混乱させる、不安にさせる"
+    ],
+    "answer": 3,
+    "explanation": "'perturb' means 'かき乱す、混乱させる、不安にさせる'. Example: 'Learning perturb helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 375,
+    "question": "What is the meaning of 'placid'?",
+    "choices": [
+      "落葉性の、落ちる、はかない、一時的な",
+      "不良な、荒れ模様の",
+      "穏やかな、静かな、落ち着いた",
+      "例外的な、異常な、すぐれた"
+    ],
+    "answer": 2,
+    "explanation": "'placid' means '穏やかな、静かな、落ち着いた'. Example: 'Learning placid helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 376,
+    "question": "What is the meaning of 'presumptuous'?",
+    "choices": [
+      "押しの強い、無遠慮な、僭越で",
+      "荒れ野、だだっ広い場所",
+      "粘板岩、石板、候補者名簿",
+      "豊富に、たくさん"
+    ],
+    "answer": 0,
+    "explanation": "'presumptuous' means '押しの強い、無遠慮な、僭越で'. Example: 'Learning presumptuous helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 377,
+    "question": "What is the meaning of 'privy'?",
+    "choices": [
+      "いっぱい食わせる、かつぐ、かついでさせる",
+      "内々関与して",
+      "長引く、ひどい",
+      "繁栄する、成功した、好都合の"
+    ],
+    "answer": 1,
+    "explanation": "'privy' means '内々関与して'. Example: 'Learning privy helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 378,
+    "question": "What is the meaning of 'prodigal'?",
+    "choices": [
+      "出現する、ように見える、見受けられる",
+      "浪費する、ぜいたくな、豊富な",
+      "盛装する",
+      "厳しい、質素な"
+    ],
+    "answer": 1,
+    "explanation": "'prodigal' means '浪費する、ぜいたくな、豊富な'. Example: 'Learning prodigal helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 379,
+    "question": "What is the meaning of 'profusely'?",
+    "choices": [
+      "博愛、寛大、報奨金",
+      "豊富に、たくさん",
+      "一様、均一、画一、一律",
+      "荒れ野、だだっ広い場所"
+    ],
+    "answer": 1,
+    "explanation": "'profusely' means '豊富に、たくさん'. Example: 'Learning profusely helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 380,
+    "question": "What is the meaning of 'pseudonym'?",
+    "choices": [
+      "ペンネーム",
+      "付加的な，追加の",
+      "激怒、憤り",
+      "応募者、志願者、申込者、希望者、出願者"
+    ],
+    "answer": 0,
+    "explanation": "'pseudonym' means 'ペンネーム'. Example: 'Learning pseudonym helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 381,
+    "question": "What is the meaning of 'puke'?",
+    "choices": [
+      "おおよそ、ほぼ",
+      "並べる、並列する",
+      "繁栄する、成功した、好都合の",
+      "吐く"
+    ],
+    "answer": 3,
+    "explanation": "'puke' means '吐く'. Example: 'Learning puke helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 382,
+    "question": "What is the meaning of 'ramshackle'?",
+    "choices": [
+      "捨てる、処分する",
+      "今にも倒れそうな、ぐらぐらする、がたがたの",
+      "食欲不振",
+      "回収する、取り戻す"
+    ],
+    "answer": 1,
+    "explanation": "'ramshackle' means '今にも倒れそうな、ぐらぐらする、がたがたの'. Example: 'Learning ramshackle helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 383,
+    "question": "What is the meaning of 'ransack'?",
+    "choices": [
+      "病的飢餓、大食症",
+      "補足する、助成金の",
+      "くまなく探る、あさり回る、くまなく探す、ものを奪う",
+      "管理者、長官、部長"
+    ],
+    "answer": 2,
+    "explanation": "'ransack' means 'くまなく探る、あさり回る、くまなく探す、ものを奪う'. Example: 'Learning ransack helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 384,
+    "question": "What is the meaning of 'recoil'?",
+    "choices": [
+      "あとずさりする、ひるむ、後退する",
+      "基本の、初歩の、原始的な、粗末な、未発達の",
+      "贈与する、寄贈する",
+      "要求する、要求、需要"
+    ],
+    "answer": 0,
+    "explanation": "'recoil' means 'あとずさりする、ひるむ、後退する'. Example: 'Learning recoil helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 385,
+    "question": "What is the meaning of 'redeem'?",
+    "choices": [
+      "弁済する、償還する、請け出す、取り返す",
+      "を展示する、陳列する、提示する，示す",
+      "杯、聖杯",
+      "雨雲、後光、輝かしい雰囲気"
+    ],
+    "answer": 0,
+    "explanation": "'redeem' means '弁済する、償還する、請け出す、取り返す'. Example: 'Learning redeem helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 386,
+    "question": "What is the meaning of 'replenish'?",
+    "choices": [
+      "再び満たす、補充する",
+      "正しいとする、正当化する",
+      "食欲をそそるもの、前菜",
+      "指数関数的に"
+    ],
+    "answer": 0,
+    "explanation": "'replenish' means '再び満たす、補充する'. Example: 'Learning replenish helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 387,
+    "question": "What is the meaning of 'rudimentary'?",
+    "choices": [
+      "基本の、初歩の、原始的な、粗末な、未発達の",
+      "破裂する",
+      "パンフレット、小冊子",
+      "ドア・門などの掛け金"
+    ],
+    "answer": 0,
+    "explanation": "'rudimentary' means '基本の、初歩の、原始的な、粗末な、未発達の'. Example: 'Learning rudimentary helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 388,
+    "question": "What is the meaning of 'satirical'?",
+    "choices": [
+      "比較する、対照する",
+      "大きさ、積み荷、かさばる",
+      "続行する、移る、進む",
+      "風刺の、風刺的な、風刺を好む"
+    ],
+    "answer": 3,
+    "explanation": "'satirical' means '風刺の、風刺的な、風刺を好む'. Example: 'Learning satirical helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 389,
+    "question": "What is the meaning of 'savory'?",
+    "choices": [
+      "我慢する",
+      "味のよい、塩のきいた、辛みのある、おもしろみのある",
+      "容疑、疑い、いぶかり、気づくこと",
+      "徳、美徳、長所"
+    ],
+    "answer": 1,
+    "explanation": "'savory' means '味のよい、塩のきいた、辛みのある、おもしろみのある'. Example: 'Learning savory helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 390,
+    "question": "What is the meaning of 'savvy'?",
+    "choices": [
+      "押し上げ、後援、増大",
+      "知る、わかる",
+      "交換、後継者",
+      "すばらしい、堂々とした、壮麗な"
+    ],
+    "answer": 1,
+    "explanation": "'savvy' means '知る、わかる'. Example: 'Learning savvy helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 391,
+    "question": "What is the meaning of 'scaffold'?",
+    "choices": [
+      "決定する、決心する",
+      "言及する、ほのめかす",
+      "前提、家屋",
+      "足場、組み立て舞台"
+    ],
+    "answer": 3,
+    "explanation": "'scaffold' means '足場、組み立て舞台'. Example: 'Learning scaffold helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 392,
+    "question": "What is the meaning of 'shun'?",
+    "choices": [
+      "決定する、決心する",
+      "旧式の、時代遅れの",
+      "避ける",
+      "仕事場"
+    ],
+    "answer": 2,
+    "explanation": "'shun' means '避ける'. Example: 'Learning shun helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 393,
+    "question": "What is the meaning of 'singular'?",
+    "choices": [
+      "並はずれた、非凡な、珍しい",
+      "容易にする、楽にする、促進する",
+      "乗客、旅客",
+      "教授、授業料、月謝"
+    ],
+    "answer": 0,
+    "explanation": "'singular' means '並はずれた、非凡な、珍しい'. Example: 'Learning singular helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 394,
+    "question": "What is the meaning of 'tattered'?",
+    "choices": [
+      "ぼろぼろの、ぼろを着た",
+      "直立した、正しい",
+      "獣医",
+      "卵形の、楕円形の"
+    ],
+    "answer": 0,
+    "explanation": "'tattered' means 'ぼろぼろの、ぼろを着た'. Example: 'Learning tattered helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 395,
+    "question": "What is the meaning of 'trample'?",
+    "choices": [
+      "船積み、輸送、発送",
+      "貪欲な、熱心な、渇望して",
+      "踏みつける、踏みにじる",
+      "迅速に"
+    ],
+    "answer": 2,
+    "explanation": "'trample' means '踏みつける、踏みにじる'. Example: 'Learning trample helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 396,
+    "question": "What is the meaning of 'upright'?",
+    "choices": [
+      "並べる、並列する",
+      "上回る、超える、まさる",
+      "厳しい、質素な",
+      "直立した、正しい"
+    ],
+    "answer": 3,
+    "explanation": "'upright' means '直立した、正しい'. Example: 'Learning upright helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 397,
+    "question": "What is the meaning of 'venerate'?",
+    "choices": [
+      "前進、進める、前進させる、提案する、提示する",
+      "崇拝する",
+      "応募者、志願者、申込者、希望者、出願者",
+      "記念品、みやげ"
+    ],
+    "answer": 1,
+    "explanation": "'venerate' means '崇拝する'. Example: 'Learning venerate helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 398,
+    "question": "What is the meaning of 'vermin'?",
+    "choices": [
+      "を展示する、陳列する、提示する，示す",
+      "害虫、人間のくず、やくざ",
+      "ゆっくり歩く",
+      "複雑な、入り組んだ"
+    ],
+    "answer": 1,
+    "explanation": "'vermin' means '害虫、人間のくず、やくざ'. Example: 'Learning vermin helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 399,
+    "question": "What is the meaning of 'viable'?",
+    "choices": [
+      "存立できる、実行可能な、生存できる",
+      "会計学、 計算、経理",
+      "料理のつけ合わせ、飾り物",
+      "乗客、旅客"
+    ],
+    "answer": 0,
+    "explanation": "'viable' means '存立できる、実行可能な、生存できる'. Example: 'Learning viable helps improve your TOEIC vocabulary.'"
+  },
+  {
+    "id": 400,
+    "question": "What is the meaning of 'wrath'?",
+    "choices": [
+      "老齢化、老化、熟成",
+      "激怒、憤り",
+      "完成した、既成の、熟練した",
+      "分析者、アナリスト"
+    ],
+    "answer": 1,
+    "explanation": "'wrath' means '激怒、憤り'. Example: 'Learning wrath helps improve your TOEIC vocabulary.'"
   }
 ]
